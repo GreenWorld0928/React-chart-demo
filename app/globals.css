@@ -28,21 +28,32 @@ body {
     text-wrap: balance;
   }
 }
+
 .percent5-color {
   background-color: #ffffff;
 }
+
 .percent25-color {
   background-color: #e0e5ec;
 }
+
 .percent50-color {
   background-color: #2e5481;
 }
+
 .percent75-color {
   background-color: #a6b6d3;
 }
+
 .percent95-color {
   background-color: #e0e5ec;
 }
+
 .target-range-color {
   background-color: #65a467;
+}
+
+.y-axis-label {
+  writing-mode: vertical-lr;
+  transform: scale(-1);
 }

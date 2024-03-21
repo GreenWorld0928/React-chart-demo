@@ -10,156 +10,202 @@ import {
   YAxis,
 } from "recharts";
 import inputData from './inputData.json';
+import { Righteous } from "next/font/google";
 export default function Home() {
 
   interface DataItem {
     time?: number;
-    percentile5?: number;
-    percentile95?: number;
-    percentile50?: number;
-    percentile75?: number;
-    percentile25?: number;
+    dataLine?: number;
+    overflowMaxArea?: number;
+    overflowMinArea?: number;
     percentileMin?: number;
     percentileMax?: number;
     percentileRange?: number;
+    zeroline?: number;
+    percentileMinArea?: number;
+  }
+
+  const WEEK_DAY: object = {
+    1: "Monday",
+    3: "Tuesday",
+    5: "Wednesday",
+    7: "Thursday",
+    9: "Friday",
+    11: "Saturday",
+    13: "Sunday",
   }
   const subtractIfDefined = (a: number | undefined, b: number | undefined): number | undefined => {
     return (a !== undefined && b !== undefined) ? a - b : undefined;
   };
-  const data: DataItem[] = inputData.agpProfileGraph.values;
+  const data = inputData.agpProfileGraph.values;
   const Newdata: DataItem[] = data.map((item, idx) => ({
-    time: idx * 24 / (data.length - 1),
-    percentile5: item.percentile5,
-    percentile95: subtractIfDefined(item.percentile95, item.percentile75),
-    percentile50: item.percentile50,
-    percentile75: subtractIfDefined(item.percentile75, item.percentile25),
-    percentile25: subtractIfDefined(item.percentile25, item.percentile5),
-    percentileMin: 70,
-    percentileMax: 180,
+    time: idx * 14 / (data.length - 1),
+    dataLine: item.percentile95,
+    overflowMaxArea: item.percentile95 > 150 ? item.percentile95 - 150 : 0,
+    overflowMinArea: item.percentile95 < 130 ? item.percentile95 : 130,
+    percentileMinArea: item.percentile95 < 130 ? 130 - item.percentile95 : 0,
+    percentileMin: 130,
+    percentileMax: 20,
     percentileRange: item.percentile95,
+    zeroline: 0,
   }));
 
   return (
-    <div className="flex justify-center items-center h-screen">
-      <ResponsiveContainer width="90%" height={400}>
-        <ComposedChart
-          width={500}
-          height={400}
-          data={Newdata}
-          margin={{
-            top: 10,
-            right: 30,
-            left: 30,
-            bottom: 0,
-          }}
-        >
-          <CartesianGrid strokeDasharray="3 3" />
-          <XAxis
-            dataKey="time"
-            type="number"
-            ticks={[0, 3, 6, 9, 12, 15, 18, 21, 24]}
-            tickFormatter={(time) => (time === 0 || time === 24) ? "12am" : (time === 12 ? "12pm" : time < 12 ? time + "am" : time - 12 + "pm")}
-            domain={['dataMin', 'dataMin']}
-            style={{ fontSize: 12, fontWeight: "bold" }}
-          />
-          <YAxis yAxisId="y1" unit="mg/dL" style={{ fontSize: 11, fontWeight: "bold" }} />
-          <YAxis yAxisId="y2" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
-          <Line
-            yAxisId="y2"
-            type="monotone"
-            dataKey="percentileRange"
-            stroke="#ffffff"
-            dot={false}
-            strokeWidth={2}
-          />
-          <Area
-            yAxisId="y1"
-            type="monotone"
-            stackId="1"
-            dataKey="percentile5"
-            stroke="#bfc3c5"
-            fill="#ffffff"
-          />
-          <Area
-            yAxisId="y1"
-            type="monotone"
-            dataKey="percentile25"
-            stackId="1"
-            stroke="#e0e5ec"
-            fill="#e0e5ec"
-          />
-          <Area
-            yAxisId="y1"
-            type="monotone"
-            dataKey="percentile75"
-            stackId="1"
-            stroke="#a6b6d3"
-            fill="#a6b6d3"
-          />
-          <Area
-            yAxisId="y1"
-            type="monotone"
-            dataKey="percentile95"
-            stackId="1"
-            strokeDasharray="6 6"
-            stroke="#bfc3c5"
-            fill="#e0e5ec"
-          />
-          <Line
-            yAxisId="y1"
-            type="monotone"
-            dataKey="percentile50"
-            stroke="#2e5481"
-            dot={false}
-            strokeWidth={2}
-          />
-          <Line
-            yAxisId="y1"
-            type="monotone"
-            stroke="#65a467"
-            dataKey="percentileMax"
-            dot={false}
-            strokeWidth={3}
-          ><Label position="left">djdjdj</Label></Line>
-          <Line
-            yAxisId="y1"
-            type="monotone"
-            dataKey="percentileMin"
-            stroke="#65a467"
-            dot={false}
-            strokeWidth={3}
-          />
-        </ComposedChart>
-      </ResponsiveContainer>
-      <ResponsiveContainer width="10%" height={400} className="flex items-center">
-        <div className="flex flex-col justify-center">
-          <div className="flex my-1">
-            <div className="w-10 h-5 border rounded-md mr-3 percent95-color"></div>
-            <div className="text-sm text-center items-center">75-95%</div>
-          </div>
-          <div className="flex my-1">
-            <div className="w-10 h-5 border rounded-md mr-3 percent75-color"></div>
-            <div className="text-sm text-center items-center">50-75%</div>
-          </div>
-          <div className="flex items-center  my-1">
-            <div className="w-8 h-1 border rounded-md ml-1 mr-3 percent50-color"></div>
-            <div className="text-sm ml-3 text-center items-center">50%</div>
-          </div>
-          <div className="flex my-1">
-            <div className="w-10 h-5 border rounded-md mr-3 percent75-color"></div>
-            <div className="text-sm text-center items-center">25-50%</div>
-          </div>
+    <div>
+      {/* <span className="y-axis-label items-center">mg/dL</span> */}
+      <div className="flex flex-col justify-center items-center h-screen">
+        <ResponsiveContainer width="90%" height={250}>
+          <ComposedChart
+            width={500}
+            height={400}
+            data={Newdata}
+            margin={{
+              top: 10,
+              right: 30,
+              left: 30,
+              bottom: 0,
+            }}
+          >
+            <CartesianGrid strokeDasharray="3 3" />
+            <XAxis
+              xAxisId="0"
+              dataKey="time"
+              type="number"
+              ticks={[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]}
+              tickFormatter={(time) => WEEK_DAY[time] ? WEEK_DAY[time] : ""}
+              domain={['dataMin', 'dataMin']}
+              orientation="top"
+              style={{ fontSize: 12, fontWeight: "bold" }}
+            />
+            <YAxis yAxisId="y1" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
+            <YAxis yAxisId="y2" orientation="right" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
+            <Line
+              yAxisId="y2"
+              type="monotone"
+              dataKey="zeroline"
+              stroke="#000000"
+              dot={false}
+              strokeWidth={2}
+            />
+            <Area
+              yAxisId="y1"
+              type="monotone"
+              stackId="1"
+              dataKey="overflowMinArea"
+              stroke="#ffffff"
+              fill="white"
+            />
+            <Area
+              yAxisId="y1"
+              type="monotone"
+              stackId="1"
+              dataKey="percentileMinArea"
+              stroke="#b3e6e0"
+              fill="#ff0000"
+            />
+            <Area
+              yAxisId="y1"
+              type="monotone"
+              stackId="1"
+              dataKey="percentileMax"
+              stroke="#ffffff"
+              fill="#b3e6e0"
+            />
+            <Area
+              yAxisId="y1"
+              type="monotone"
+              stackId="1"
+              dataKey="overflowMaxArea"
+              stroke="#b3e6e0"
+              fill="#0000ff"
+            />
+            <Line
+              yAxisId="y1"
+              type="monotone"
+              dataKey="percentileRange"
+              stroke="#26736a"
+              dot={false}
+              strokeWidth={2}
+            />
+            <Line
+              yAxisId="y2"
+              type="monotone"
+              dataKey="percentileRange"
+              stroke="#26736a"
+              dot={false}
+              strokeWidth={2}
+            />
+          </ComposedChart>
+        </ResponsiveContainer>
+        <ResponsiveContainer width="90%" height={250}>
+          <ComposedChart
+            width={500}
+            height={400}
+            data={Newdata}
+            margin={{
+              top: 10,
+              right: 30,
+              left: 30,
+              bottom: 0,
+            }}
+          >
+            <CartesianGrid strokeDasharray="3 3" />
+            <XAxis
+              xAxisId="0"
+              dataKey="time"
+              type="number"
+              ticks={[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]}
+              tickFormatter={(time) => ""}
+              domain={['dataMin', 'dataMin']}
+              orientation="top"
+              style={{ fontSize: 12, fontWeight: "bold" }}
+            />
+            <YAxis yAxisId="y1" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
+            <YAxis yAxisId="y2" orientation="right" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
+            <Line
+              yAxisId="y2"
+              type="monotone"
+              dataKey="zeroline"
+              stroke="#000000"
+              dot={false}
+              strokeWidth={2}
+            />
+            <Area
+              yAxisId="y1"
+              type="monotone"
+              stackId="1"
+              dataKey="percentileMin"
+              stroke="#ffffff"
+              fill="#ffffff"
+            />
+            <Area
+              yAxisId="y1"
+              type="monotone"
+              stackId="1"
+              dataKey="percentileMax"
+              stroke="#ffffff"
+              fill="#b3e6e0"
+            />
 
-          <div className="flex my-1">
-            <div className="w-10 h-5 border rounded-md mr-3 percent25-color"></div>
-            <div className="text-sm text-center items-center">5-25%</div>
-          </div>
-          <div className="flex items-center  my-5">
-            <div className="w-10 h-2 border rounded-md mr-1 target-range-color"></div>
-            <div className="text-sm ml-1 text-center items-center">Target Range<br></br> 70-180 mg/dL</div>
-          </div>
-        </div>
-      </ResponsiveContainer>
+            <Line
+              yAxisId="y1"
+              type="monotone"
+              dataKey="percentileRange"
+              stroke="#26736a"
+              dot={false}
+              strokeWidth={2}
+            />
+            <Line
+              yAxisId="y2"
+              type="monotone"
+              dataKey="percentileRange"
+              stroke="#26736a"
+              dot={false}
+              strokeWidth={2}
+            />
+          </ComposedChart>
+        </ResponsiveContainer>
+      </div>
     </div>
   );
 }
