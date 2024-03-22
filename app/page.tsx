@@ -3,29 +3,25 @@ import {
   Area,
   CartesianGrid,
   ComposedChart,
-  Label,
   Line,
   ResponsiveContainer,
   XAxis,
   YAxis,
 } from "recharts";
 import inputData from './inputData.json';
-import { Righteous } from "next/font/google";
+
+
 export default function Home() {
 
   interface DataItem {
     time?: number;
     dataLine?: number;
-    overflowMaxArea?: number;
-    overflowMinArea?: number;
     percentileMin?: number;
     percentileMax?: number;
-    percentileRange?: number;
-    zeroline?: number;
-    percentileMinArea?: number;
+    percentileRange: number;
   }
 
-  const WEEK_DAY: object = {
+  const WEEK_DAY: { [key: number]: string } = {
     1: "Monday",
     3: "Tuesday",
     5: "Wednesday",
@@ -41,20 +37,21 @@ export default function Home() {
   const Newdata: DataItem[] = data.map((item, idx) => ({
     time: idx * 14 / (data.length - 1),
     dataLine: item.percentile95,
-    overflowMaxArea: item.percentile95 > 150 ? item.percentile95 - 150 : 0,
-    overflowMinArea: item.percentile95 < 130 ? item.percentile95 : 130,
-    percentileMinArea: item.percentile95 < 130 ? 130 - item.percentile95 : 0,
-    percentileMin: 130,
-    percentileMax: 20,
-    percentileRange: item.percentile95,
-    zeroline: 0,
+    percentileMin: 70,
+    percentileMax: 110,
+    percentileRange: item.percentile95 - 70,
   }));
 
+  const gradientOffset = (index: number) => {
+    const dataMax = Math.max(...Newdata.map((i: DataItem) => i.percentileRange));
+    const dataMin = Math.min(...Newdata.map((i: DataItem) => i.percentileRange));
+    if (index === 0) return (dataMax - 110) / (dataMax - dataMin);
+    if (index === 1) return 110 / (110 - dataMin);
+  };
+
   return (
-    <div>
-      {/* <span className="y-axis-label items-center">mg/dL</span> */}
       <div className="flex flex-col justify-center items-center h-screen">
-        <ResponsiveContainer width="90%" height={250}>
+        <ResponsiveContainer width="100%" height={250}>
           <ComposedChart
             width={500}
             height={400}
@@ -77,47 +74,48 @@ export default function Home() {
               orientation="top"
               style={{ fontSize: 12, fontWeight: "bold" }}
             />
-            <YAxis yAxisId="y1" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
-            <YAxis yAxisId="y2" orientation="right" ticks={[70, 180]} style={{ fontSize: 13, fontWeight: "bold" }} />
-            <Line
-              yAxisId="y2"
+            <XAxis
+              xAxisId="1"
+              dataKey="time"
+              type="number"
+              ticks={[0]}
+              tickFormatter={(time) => ""}
+              domain={['dataMin', 'dataMin']}
+              orientation="bottom"
+              style={{ fontSize: 12, fontWeight: "bold" }}
+            />
+            <YAxis yAxisId="y1" ticks={[0, 110]} tickFormatter={(time) => time + 70} style={{ fontSize: 13, fontWeight: "bold" }} />
+            <YAxis yAxisId="y2" orientation="right" ticks={[0, 110]} tickFormatter={(time) => time + 70} style={{ fontSize: 13, fontWeight: "bold" }} />
+            <defs>
+              <linearGradient id="splitColor" x1="0" y1="0" x2="0" y2="1">
+                <stop offset={gradientOffset(0)} stopColor="blue" stopOpacity={1} />
+                <stop offset={gradientOffset(1)} stopColor="#b3e6e0" stopOpacity={0} />
+                <stop offset={0.85} stopColor="red" stopOpacity={1} />
+              </linearGradient>
+            </defs>
+            {/* <Line
+              yAxisId="y1"
               type="monotone"
-              dataKey="zeroline"
+              dataKey={() => -70}
               stroke="#000000"
               dot={false}
-              strokeWidth={2}
-            />
+              strokeWidth={1}
+            /> */}
             <Area
               yAxisId="y1"
               type="monotone"
-              stackId="1"
-              dataKey="overflowMinArea"
-              stroke="#ffffff"
-              fill="white"
-            />
-            <Area
-              yAxisId="y1"
-              type="monotone"
-              stackId="1"
-              dataKey="percentileMinArea"
+              stackId="2"
+              dataKey="percentileRange"
               stroke="#b3e6e0"
-              fill="#ff0000"
+              fill="url(#splitColor)"
             />
             <Area
               yAxisId="y1"
               type="monotone"
-              stackId="1"
+              stackId="0"
               dataKey="percentileMax"
-              stroke="#ffffff"
-              fill="#b3e6e0"
-            />
-            <Area
-              yAxisId="y1"
-              type="monotone"
-              stackId="1"
-              dataKey="overflowMaxArea"
               stroke="#b3e6e0"
-              fill="#0000ff"
+              fill="#b3e6e0"
             />
             <Line
               yAxisId="y1"
@@ -137,7 +135,7 @@ export default function Home() {
             />
           </ComposedChart>
         </ResponsiveContainer>
-        <ResponsiveContainer width="90%" height={250}>
+        <ResponsiveContainer width="100%" height={250}>
           <ComposedChart
             width={500}
             height={400}
@@ -165,7 +163,7 @@ export default function Home() {
             <Line
               yAxisId="y2"
               type="monotone"
-              dataKey="zeroline"
+              dataKey={() => 0}
               stroke="#000000"
               dot={false}
               strokeWidth={2}
@@ -190,7 +188,7 @@ export default function Home() {
             <Line
               yAxisId="y1"
               type="monotone"
-              dataKey="percentileRange"
+              dataKey="dataLine"
               stroke="#26736a"
               dot={false}
               strokeWidth={2}
@@ -198,7 +196,7 @@ export default function Home() {
             <Line
               yAxisId="y2"
               type="monotone"
-              dataKey="percentileRange"
+              dataKey="dataLine"
               stroke="#26736a"
               dot={false}
               strokeWidth={2}
@@ -206,6 +204,5 @@ export default function Home() {
           </ComposedChart>
         </ResponsiveContainer>
       </div>
-    </div>
   );
 }
