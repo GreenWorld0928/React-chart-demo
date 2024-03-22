@@ -46,7 +46,7 @@ export default function Home() {
     const dataMax = Math.max(...Newdata.map((i: DataItem) => i.percentileRange));
     const dataMin = Math.min(...Newdata.map((i: DataItem) => i.percentileRange));
     if (index === 0) return (dataMax - 110) / (dataMax - dataMin);
-    if (index === 1) return 110 / (110 - dataMin);
+    if (index === 1) return (dataMax+0.1) / (dataMax - dataMin);
   };
 
   return (
@@ -89,8 +89,11 @@ export default function Home() {
             <defs>
               <linearGradient id="splitColor" x1="0" y1="0" x2="0" y2="1">
                 <stop offset={gradientOffset(0)} stopColor="blue" stopOpacity={1} />
-                <stop offset={gradientOffset(1)} stopColor="#b3e6e0" stopOpacity={0} />
-                <stop offset={0.85} stopColor="red" stopOpacity={1} />
+                <stop offset={gradientOffset(0)} stopColor="blue" stopOpacity={1} />
+                <stop offset={gradientOffset(0)} stopColor="white" stopOpacity={1} />
+                <stop offset={gradientOffset(1)} stopColor="white" stopOpacity={1} />
+                <stop offset={gradientOffset(1)} stopColor="red" stopOpacity={1} />
+                <stop offset={1} stopColor="red" stopOpacity={1} />
               </linearGradient>
             </defs>
             {/* <Line
