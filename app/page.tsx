@@ -15,10 +15,8 @@ import { useEffect } from "react";
 export default function Home() {
 
   interface DataItem {
-    day: number;
     time?: number;
     dataLine?: number;
-    percentileMin?: number;
     percentileMax?: number;
     percentileRange: number;
   }
@@ -31,25 +29,11 @@ export default function Home() {
     9: "Fri",
     11: "Sat",
     13: "Sun",
-    15: "Mon",
-    17: "Tue",
-    19: "Wed",
-    21: "Thu",
-    23: "Fri",
-    25: "Sat",
-    27: "Sun",
   }
   const subtractIfDefined = (a: number | undefined, b: number | undefined): number | undefined => {
     return (a !== undefined && b !== undefined) ? a - b : undefined;
   };
   const data = inputData.dailyGlucoseProfiles;
-  // const Newdata: DataItem[] = data.map((item, idx) => ({
-  //   time: idx * 14 / (data.length - 1),
-  //   dataLine: item.percentile95 ? item.percentile95 - 70 : undefined,
-  //   percentileMin: 70,
-  //   percentileMax: 110,
-  //   percentileRange: item.percentile95 ? item.percentile95 - 70 : -1,
-  // }));
   let Newdata = new Array();
 
   const startDay = new Date(data[0].date).getUTCDay();
@@ -58,21 +42,32 @@ export default function Home() {
       data[i].egvs.forEach(item => {
         let newObj: DataItem =
         {
-          day: startDay + 2 * i,
-          time: i * 2 + (new Date(item.time).getUTCHours()*60 + new Date(item.time).getUTCMinutes())/720 ,
+          time: i * 2 + (new Date(item.time).getHours() * 60 + new Date(item.time).getMinutes()) / 720,
           dataLine: item.magnitude ? item.magnitude - 70 : undefined,
-          percentileMin: 70,
           percentileMax: 110,
           percentileRange: item.magnitude ? item.magnitude - 70 : -1,
         };
         Newdata.push(newObj);
       });
     }
+    else{
+      Newdata.push({
+        time: i * 2,
+        dataLine: undefined,
+        percentileMax: 110,
+        percentileRange: -1,
+      });
+    }
   }
+  Newdata.push({
+    time: 28,
+    dataLine: undefined,
+    percentileMax: 110,
+    percentileRange: -1,
+  });
 
   useEffect(() => {
-    console.log("AAAAAAAA:::", Newdata)
-
+    console.log(Newdata)
   }, [])
 
   const gradientOffset = (index: number) => {
@@ -104,7 +99,7 @@ export default function Home() {
             dataKey="time"
             type="number"
             ticks={[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]}
-            tickFormatter={(time) => WEEK_DAY[time+3] ? WEEK_DAY[time+3] : ""}
+            tickFormatter={(semiDay) => WEEK_DAY[(semiDay + 12 + startDay * 2) % 14] ? WEEK_DAY[(semiDay + 12 + startDay * 2) % 14] : ""}
             domain={['dataMin', 'dataMin']}
             orientation="top"
             style={{ fontSize: 12, fontWeight: "bold" }}

@@ -214,7 +214,2024 @@
         },
         {
             "date": "2022-07-08",
-            "egvs": []
+            "egvs": [
+                {
+                    "time": "2022-07-13T00:01:52",
+                    "absoluteTime": "2022-07-13T07:01:52",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 133874
+                },
+                {
+                    "time": "2022-07-13T00:06:52",
+                    "absoluteTime": "2022-07-13T07:06:52",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 134174
+                },
+                {
+                    "time": "2022-07-13T00:11:52",
+                    "absoluteTime": "2022-07-13T07:11:52",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 134474
+                },
+                {
+                    "time": "2022-07-13T00:16:52",
+                    "absoluteTime": "2022-07-13T07:16:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 134774
+                },
+                {
+                    "time": "2022-07-13T00:21:52",
+                    "absoluteTime": "2022-07-13T07:21:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 135074
+                },
+                {
+                    "time": "2022-07-13T00:26:52",
+                    "absoluteTime": "2022-07-13T07:26:52",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 135374
+                },
+                {
+                    "time": "2022-07-13T00:31:52",
+                    "absoluteTime": "2022-07-13T07:31:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 135674
+                },
+                {
+                    "time": "2022-07-13T00:36:52",
+                    "absoluteTime": "2022-07-13T07:36:52",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 135974
+                },
+                {
+                    "time": "2022-07-13T00:41:52",
+                    "absoluteTime": "2022-07-13T07:41:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 136274
+                },
+                {
+                    "time": "2022-07-13T00:46:52",
+                    "absoluteTime": "2022-07-13T07:46:52",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 136574
+                },
+                {
+                    "time": "2022-07-13T00:51:52",
+                    "absoluteTime": "2022-07-13T07:51:52",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 136874
+                },
+                {
+                    "time": "2022-07-13T00:56:52",
+                    "absoluteTime": "2022-07-13T07:56:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 137174
+                },
+                {
+                    "time": "2022-07-13T01:01:52",
+                    "absoluteTime": "2022-07-13T08:01:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 137474
+                },
+                {
+                    "time": "2022-07-13T01:06:52",
+                    "absoluteTime": "2022-07-13T08:06:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 137774
+                },
+                {
+                    "time": "2022-07-13T01:11:53",
+                    "absoluteTime": "2022-07-13T08:11:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 138074
+                },
+                {
+                    "time": "2022-07-13T01:16:52",
+                    "absoluteTime": "2022-07-13T08:16:52",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 138374
+                },
+                {
+                    "time": "2022-07-13T01:21:52",
+                    "absoluteTime": "2022-07-13T08:21:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 138674
+                },
+                {
+                    "time": "2022-07-13T01:26:52",
+                    "absoluteTime": "2022-07-13T08:26:52",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 138974
+                },
+                {
+                    "time": "2022-07-13T01:31:52",
+                    "absoluteTime": "2022-07-13T08:31:52",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 139274
+                },
+                {
+                    "time": "2022-07-13T01:36:52",
+                    "absoluteTime": "2022-07-13T08:36:52",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 139574
+                },
+                {
+                    "time": "2022-07-13T01:41:52",
+                    "absoluteTime": "2022-07-13T08:41:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 139874
+                },
+                {
+                    "time": "2022-07-13T01:46:53",
+                    "absoluteTime": "2022-07-13T08:46:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 140174
+                },
+                {
+                    "time": "2022-07-13T01:51:52",
+                    "absoluteTime": "2022-07-13T08:51:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 140474
+                },
+                {
+                    "time": "2022-07-13T01:56:52",
+                    "absoluteTime": "2022-07-13T08:56:52",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 140774
+                },
+                {
+                    "time": "2022-07-13T02:01:52",
+                    "absoluteTime": "2022-07-13T09:01:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 141074
+                },
+                {
+                    "time": "2022-07-13T02:06:53",
+                    "absoluteTime": "2022-07-13T09:06:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 141374
+                },
+                {
+                    "time": "2022-07-13T02:11:52",
+                    "absoluteTime": "2022-07-13T09:11:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 141674
+                },
+                {
+                    "time": "2022-07-13T02:16:52",
+                    "absoluteTime": "2022-07-13T09:16:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 141974
+                },
+                {
+                    "time": "2022-07-13T02:21:52",
+                    "absoluteTime": "2022-07-13T09:21:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 142274
+                },
+                {
+                    "time": "2022-07-13T02:26:52",
+                    "absoluteTime": "2022-07-13T09:26:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 142574
+                },
+                {
+                    "time": "2022-07-13T02:31:52",
+                    "absoluteTime": "2022-07-13T09:31:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 142874
+                },
+                {
+                    "time": "2022-07-13T02:36:52",
+                    "absoluteTime": "2022-07-13T09:36:52",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 143174
+                },
+                {
+                    "time": "2022-07-13T02:41:52",
+                    "absoluteTime": "2022-07-13T09:41:52",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 143474
+                },
+                {
+                    "time": "2022-07-13T02:46:52",
+                    "absoluteTime": "2022-07-13T09:46:52",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 143774
+                },
+                {
+                    "time": "2022-07-13T02:51:52",
+                    "absoluteTime": "2022-07-13T09:51:52",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 144074
+                },
+                {
+                    "time": "2022-07-13T02:56:52",
+                    "absoluteTime": "2022-07-13T09:56:52",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 144374
+                },
+                {
+                    "time": "2022-07-13T03:01:52",
+                    "absoluteTime": "2022-07-13T10:01:52",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 144674
+                },
+                {
+                    "time": "2022-07-13T03:06:52",
+                    "absoluteTime": "2022-07-13T10:06:52",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 144974
+                },
+                {
+                    "time": "2022-07-13T03:11:52",
+                    "absoluteTime": "2022-07-13T10:11:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 145274
+                },
+                {
+                    "time": "2022-07-13T03:16:52",
+                    "absoluteTime": "2022-07-13T10:16:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 145574
+                },
+                {
+                    "time": "2022-07-13T03:21:53",
+                    "absoluteTime": "2022-07-13T10:21:53",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 145874
+                },
+                {
+                    "time": "2022-07-13T03:26:53",
+                    "absoluteTime": "2022-07-13T10:26:53",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 146174
+                },
+                {
+                    "time": "2022-07-13T03:31:52",
+                    "absoluteTime": "2022-07-13T10:31:52",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 146474
+                },
+                {
+                    "time": "2022-07-13T03:36:52",
+                    "absoluteTime": "2022-07-13T10:36:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 146774
+                },
+                {
+                    "time": "2022-07-13T03:41:52",
+                    "absoluteTime": "2022-07-13T10:41:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 147074
+                },
+                {
+                    "time": "2022-07-13T03:46:52",
+                    "absoluteTime": "2022-07-13T10:46:52",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 147374
+                },
+                {
+                    "time": "2022-07-13T03:51:52",
+                    "absoluteTime": "2022-07-13T10:51:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 147674
+                },
+                {
+                    "time": "2022-07-13T03:56:52",
+                    "absoluteTime": "2022-07-13T10:56:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 147974
+                },
+                {
+                    "time": "2022-07-13T04:01:53",
+                    "absoluteTime": "2022-07-13T11:01:53",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 148274
+                },
+                {
+                    "time": "2022-07-13T04:06:52",
+                    "absoluteTime": "2022-07-13T11:06:52",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 148574
+                },
+                {
+                    "time": "2022-07-13T04:11:52",
+                    "absoluteTime": "2022-07-13T11:11:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 148874
+                },
+                {
+                    "time": "2022-07-13T04:16:52",
+                    "absoluteTime": "2022-07-13T11:16:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 149174
+                },
+                {
+                    "time": "2022-07-13T04:21:52",
+                    "absoluteTime": "2022-07-13T11:21:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 149474
+                },
+                {
+                    "time": "2022-07-13T04:26:53",
+                    "absoluteTime": "2022-07-13T11:26:53",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 149774
+                },
+                {
+                    "time": "2022-07-13T04:31:53",
+                    "absoluteTime": "2022-07-13T11:31:53",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 150074
+                },
+                {
+                    "time": "2022-07-13T04:36:52",
+                    "absoluteTime": "2022-07-13T11:36:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 150374
+                },
+                {
+                    "time": "2022-07-13T04:41:53",
+                    "absoluteTime": "2022-07-13T11:41:53",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 150674
+                },
+                {
+                    "time": "2022-07-13T04:46:53",
+                    "absoluteTime": "2022-07-13T11:46:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 150974
+                },
+                {
+                    "time": "2022-07-13T04:51:52",
+                    "absoluteTime": "2022-07-13T11:51:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 151274
+                },
+                {
+                    "time": "2022-07-13T04:56:52",
+                    "absoluteTime": "2022-07-13T11:56:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 151574
+                },
+                {
+                    "time": "2022-07-13T05:01:52",
+                    "absoluteTime": "2022-07-13T12:01:52",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 151874
+                },
+                {
+                    "time": "2022-07-13T05:06:52",
+                    "absoluteTime": "2022-07-13T12:06:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 152174
+                },
+                {
+                    "time": "2022-07-13T05:11:52",
+                    "absoluteTime": "2022-07-13T12:11:52",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 152474
+                },
+                {
+                    "time": "2022-07-13T05:16:52",
+                    "absoluteTime": "2022-07-13T12:16:52",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 152774
+                },
+                {
+                    "time": "2022-07-13T05:21:53",
+                    "absoluteTime": "2022-07-13T12:21:53",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 153074
+                },
+                {
+                    "time": "2022-07-13T05:26:52",
+                    "absoluteTime": "2022-07-13T12:26:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 153374
+                },
+                {
+                    "time": "2022-07-13T05:31:52",
+                    "absoluteTime": "2022-07-13T12:31:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 153674
+                },
+                {
+                    "time": "2022-07-13T05:36:52",
+                    "absoluteTime": "2022-07-13T12:36:52",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 153974
+                },
+                {
+                    "time": "2022-07-13T05:41:52",
+                    "absoluteTime": "2022-07-13T12:41:52",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 154274
+                },
+                {
+                    "time": "2022-07-13T05:46:52",
+                    "absoluteTime": "2022-07-13T12:46:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 154574
+                },
+                {
+                    "time": "2022-07-13T05:51:52",
+                    "absoluteTime": "2022-07-13T12:51:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 154874
+                },
+                {
+                    "time": "2022-07-13T05:56:52",
+                    "absoluteTime": "2022-07-13T12:56:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 155174
+                },
+                {
+                    "time": "2022-07-13T06:01:52",
+                    "absoluteTime": "2022-07-13T13:01:52",
+                    "magnitude": 129,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 155474
+                },
+                {
+                    "time": "2022-07-13T06:06:52",
+                    "absoluteTime": "2022-07-13T13:06:52",
+                    "magnitude": 129,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 155774
+                },
+                {
+                    "time": "2022-07-13T06:11:52",
+                    "absoluteTime": "2022-07-13T13:11:52",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 156074
+                },
+                {
+                    "time": "2022-07-13T06:16:53",
+                    "absoluteTime": "2022-07-13T13:16:53",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 156374
+                },
+                {
+                    "time": "2022-07-13T06:21:53",
+                    "absoluteTime": "2022-07-13T13:21:53",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 156674
+                },
+                {
+                    "time": "2022-07-13T06:26:52",
+                    "absoluteTime": "2022-07-13T13:26:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 156974
+                },
+                {
+                    "time": "2022-07-13T06:31:53",
+                    "absoluteTime": "2022-07-13T13:31:53",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 157274
+                },
+                {
+                    "time": "2022-07-13T06:36:52",
+                    "absoluteTime": "2022-07-13T13:36:52",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 157574
+                },
+                {
+                    "time": "2022-07-13T06:41:52",
+                    "absoluteTime": "2022-07-13T13:41:52",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 157874
+                },
+                {
+                    "time": "2022-07-13T06:46:52",
+                    "absoluteTime": "2022-07-13T13:46:52",
+                    "magnitude": 129,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 158174
+                },
+                {
+                    "time": "2022-07-13T06:51:52",
+                    "absoluteTime": "2022-07-13T13:51:52",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 158474
+                },
+                {
+                    "time": "2022-07-13T06:56:53",
+                    "absoluteTime": "2022-07-13T13:56:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 158774
+                },
+                {
+                    "time": "2022-07-13T07:01:52",
+                    "absoluteTime": "2022-07-13T14:01:52",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 159074
+                },
+                {
+                    "time": "2022-07-13T07:06:52",
+                    "absoluteTime": "2022-07-13T14:06:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 159374
+                },
+                {
+                    "time": "2022-07-13T07:11:52",
+                    "absoluteTime": "2022-07-13T14:11:52",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 159674
+                },
+                {
+                    "time": "2022-07-13T07:16:53",
+                    "absoluteTime": "2022-07-13T14:16:53",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 159974
+                },
+                {
+                    "time": "2022-07-13T07:21:53",
+                    "absoluteTime": "2022-07-13T14:21:53",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 160274
+                },
+                {
+                    "time": "2022-07-13T07:26:52",
+                    "absoluteTime": "2022-07-13T14:26:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 160574
+                },
+                {
+                    "time": "2022-07-13T07:31:52",
+                    "absoluteTime": "2022-07-13T14:31:52",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 160874
+                },
+                {
+                    "time": "2022-07-13T07:36:53",
+                    "absoluteTime": "2022-07-13T14:36:53",
+                    "magnitude": 130,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 161174
+                },
+                {
+                    "time": "2022-07-13T07:41:52",
+                    "absoluteTime": "2022-07-13T14:41:52",
+                    "magnitude": 131,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 161474
+                },
+                {
+                    "time": "2022-07-13T07:46:53",
+                    "absoluteTime": "2022-07-13T14:46:53",
+                    "magnitude": 131,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 161774
+                },
+                {
+                    "time": "2022-07-13T07:51:53",
+                    "absoluteTime": "2022-07-13T14:51:53",
+                    "magnitude": 132,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 162074
+                },
+                {
+                    "time": "2022-07-13T07:56:52",
+                    "absoluteTime": "2022-07-13T14:56:52",
+                    "magnitude": 132,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 162374
+                },
+                {
+                    "time": "2022-07-13T08:01:52",
+                    "absoluteTime": "2022-07-13T15:01:52",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 162674
+                },
+                {
+                    "time": "2022-07-13T08:06:52",
+                    "absoluteTime": "2022-07-13T15:06:52",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 162974
+                },
+                {
+                    "time": "2022-07-13T08:11:53",
+                    "absoluteTime": "2022-07-13T15:11:53",
+                    "magnitude": 129,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 163274
+                },
+                {
+                    "time": "2022-07-13T08:16:53",
+                    "absoluteTime": "2022-07-13T15:16:53",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 163574
+                },
+                {
+                    "time": "2022-07-13T08:21:53",
+                    "absoluteTime": "2022-07-13T15:21:53",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 163874
+                },
+                {
+                    "time": "2022-07-13T08:26:52",
+                    "absoluteTime": "2022-07-13T15:26:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 164174
+                },
+                {
+                    "time": "2022-07-13T08:31:52",
+                    "absoluteTime": "2022-07-13T15:31:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 164474
+                },
+                {
+                    "time": "2022-07-13T08:36:53",
+                    "absoluteTime": "2022-07-13T15:36:53",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 164774
+                },
+                {
+                    "time": "2022-07-13T08:41:52",
+                    "absoluteTime": "2022-07-13T15:41:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 165074
+                },
+                {
+                    "time": "2022-07-13T08:46:52",
+                    "absoluteTime": "2022-07-13T15:46:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 165374
+                },
+                {
+                    "time": "2022-07-13T08:51:53",
+                    "absoluteTime": "2022-07-13T15:51:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 165674
+                },
+                {
+                    "time": "2022-07-13T08:56:52",
+                    "absoluteTime": "2022-07-13T15:56:52",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 165974
+                },
+                {
+                    "time": "2022-07-13T09:01:52",
+                    "absoluteTime": "2022-07-13T16:01:52",
+                    "magnitude": 130,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 166274
+                },
+                {
+                    "time": "2022-07-13T09:06:52",
+                    "absoluteTime": "2022-07-13T16:06:52",
+                    "magnitude": 139,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 166574
+                },
+                {
+                    "time": "2022-07-13T09:11:52",
+                    "absoluteTime": "2022-07-13T16:11:52",
+                    "magnitude": 133,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 166874
+                },
+                {
+                    "time": "2022-07-13T09:16:52",
+                    "absoluteTime": "2022-07-13T16:16:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 167174
+                },
+                {
+                    "time": "2022-07-13T09:21:52",
+                    "absoluteTime": "2022-07-13T16:21:52",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 167474
+                },
+                {
+                    "time": "2022-07-13T09:26:52",
+                    "absoluteTime": "2022-07-13T16:26:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 167774
+                },
+                {
+                    "time": "2022-07-13T09:31:52",
+                    "absoluteTime": "2022-07-13T16:31:52",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 168074
+                },
+                {
+                    "time": "2022-07-13T09:36:52",
+                    "absoluteTime": "2022-07-13T16:36:52",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 168374
+                },
+                {
+                    "time": "2022-07-13T09:41:52",
+                    "absoluteTime": "2022-07-13T16:41:52",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 168674
+                },
+                {
+                    "time": "2022-07-13T09:46:52",
+                    "absoluteTime": "2022-07-13T16:46:52",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 168974
+                },
+                {
+                    "time": "2022-07-13T09:51:52",
+                    "absoluteTime": "2022-07-13T16:51:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 169274
+                },
+                {
+                    "time": "2022-07-13T09:56:52",
+                    "absoluteTime": "2022-07-13T16:56:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 169574
+                },
+                {
+                    "time": "2022-07-13T10:01:52",
+                    "absoluteTime": "2022-07-13T17:01:52",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 169874
+                },
+                {
+                    "time": "2022-07-13T10:06:53",
+                    "absoluteTime": "2022-07-13T17:06:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 170174
+                },
+                {
+                    "time": "2022-07-13T10:11:52",
+                    "absoluteTime": "2022-07-13T17:11:52",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 170474
+                },
+                {
+                    "time": "2022-07-13T10:16:53",
+                    "absoluteTime": "2022-07-13T17:16:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 170774
+                },
+                {
+                    "time": "2022-07-13T10:21:53",
+                    "absoluteTime": "2022-07-13T17:21:53",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 171074
+                },
+                {
+                    "time": "2022-07-13T10:26:53",
+                    "absoluteTime": "2022-07-13T17:26:53",
+                    "magnitude": 129,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 171374
+                },
+                {
+                    "time": "2022-07-13T10:31:52",
+                    "absoluteTime": "2022-07-13T17:31:52",
+                    "magnitude": 131,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 171674
+                },
+                {
+                    "time": "2022-07-13T10:36:52",
+                    "absoluteTime": "2022-07-13T17:36:52",
+                    "magnitude": 129,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 171974
+                },
+                {
+                    "time": "2022-07-13T10:41:52",
+                    "absoluteTime": "2022-07-13T17:41:52",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 172274
+                },
+                {
+                    "time": "2022-07-13T10:46:52",
+                    "absoluteTime": "2022-07-13T17:46:52",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 172574
+                },
+                {
+                    "time": "2022-07-13T10:51:52",
+                    "absoluteTime": "2022-07-13T17:51:52",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 172874
+                },
+                {
+                    "time": "2022-07-13T10:56:52",
+                    "absoluteTime": "2022-07-13T17:56:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 173174
+                },
+                {
+                    "time": "2022-07-13T11:01:53",
+                    "absoluteTime": "2022-07-13T18:01:53",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 173474
+                },
+                {
+                    "time": "2022-07-13T11:06:52",
+                    "absoluteTime": "2022-07-13T18:06:52",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 173774
+                },
+                {
+                    "time": "2022-07-13T11:11:52",
+                    "absoluteTime": "2022-07-13T18:11:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 174074
+                },
+                {
+                    "time": "2022-07-13T11:16:52",
+                    "absoluteTime": "2022-07-13T18:16:52",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 174374
+                },
+                {
+                    "time": "2022-07-13T11:21:53",
+                    "absoluteTime": "2022-07-13T18:21:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 174674
+                },
+                {
+                    "time": "2022-07-13T11:26:52",
+                    "absoluteTime": "2022-07-13T18:26:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 174974
+                },
+                {
+                    "time": "2022-07-13T11:31:53",
+                    "absoluteTime": "2022-07-13T18:31:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 175274
+                },
+                {
+                    "time": "2022-07-13T11:36:53",
+                    "absoluteTime": "2022-07-13T18:36:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 175574
+                },
+                {
+                    "time": "2022-07-13T11:41:53",
+                    "absoluteTime": "2022-07-13T18:41:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 175874
+                },
+                {
+                    "time": "2022-07-13T11:46:52",
+                    "absoluteTime": "2022-07-13T18:46:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 176174
+                },
+                {
+                    "time": "2022-07-13T11:51:53",
+                    "absoluteTime": "2022-07-13T18:51:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 176474
+                },
+                {
+                    "time": "2022-07-13T11:56:52",
+                    "absoluteTime": "2022-07-13T18:56:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 176774
+                },
+                {
+                    "time": "2022-07-13T12:01:52",
+                    "absoluteTime": "2022-07-13T19:01:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 177074
+                },
+                {
+                    "time": "2022-07-13T12:06:52",
+                    "absoluteTime": "2022-07-13T19:06:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 177374
+                },
+                {
+                    "time": "2022-07-13T12:11:53",
+                    "absoluteTime": "2022-07-13T19:11:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 177674
+                },
+                {
+                    "time": "2022-07-13T12:16:53",
+                    "absoluteTime": "2022-07-13T19:16:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 177974
+                },
+                {
+                    "time": "2022-07-13T12:21:52",
+                    "absoluteTime": "2022-07-13T19:21:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 178274
+                },
+                {
+                    "time": "2022-07-13T12:26:53",
+                    "absoluteTime": "2022-07-13T19:26:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 178574
+                },
+                {
+                    "time": "2022-07-13T12:31:53",
+                    "absoluteTime": "2022-07-13T19:31:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 178874
+                },
+                {
+                    "time": "2022-07-13T12:36:52",
+                    "absoluteTime": "2022-07-13T19:36:52",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 179174
+                },
+                {
+                    "time": "2022-07-13T12:41:53",
+                    "absoluteTime": "2022-07-13T19:41:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 179474
+                },
+                {
+                    "time": "2022-07-13T12:46:53",
+                    "absoluteTime": "2022-07-13T19:46:53",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 179774
+                },
+                {
+                    "time": "2022-07-13T12:51:53",
+                    "absoluteTime": "2022-07-13T19:51:53",
+                    "magnitude": 133,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 180074
+                },
+                {
+                    "time": "2022-07-13T12:56:53",
+                    "absoluteTime": "2022-07-13T19:56:53",
+                    "magnitude": 141,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 180374
+                },
+                {
+                    "time": "2022-07-13T13:01:53",
+                    "absoluteTime": "2022-07-13T20:01:53",
+                    "magnitude": 147,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 180674
+                },
+                {
+                    "time": "2022-07-13T13:06:52",
+                    "absoluteTime": "2022-07-13T20:06:52",
+                    "magnitude": 144,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 180974
+                },
+                {
+                    "time": "2022-07-13T13:11:53",
+                    "absoluteTime": "2022-07-13T20:11:53",
+                    "magnitude": 139,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 181274
+                },
+                {
+                    "time": "2022-07-13T13:16:53",
+                    "absoluteTime": "2022-07-13T20:16:53",
+                    "magnitude": 132,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 181574
+                },
+                {
+                    "time": "2022-07-13T13:21:53",
+                    "absoluteTime": "2022-07-13T20:21:53",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 181874
+                },
+                {
+                    "time": "2022-07-13T13:26:52",
+                    "absoluteTime": "2022-07-13T20:26:52",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 182174
+                },
+                {
+                    "time": "2022-07-13T13:31:52",
+                    "absoluteTime": "2022-07-13T20:31:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 182474
+                },
+                {
+                    "time": "2022-07-13T13:36:53",
+                    "absoluteTime": "2022-07-13T20:36:53",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 182774
+                },
+                {
+                    "time": "2022-07-13T13:41:52",
+                    "absoluteTime": "2022-07-13T20:41:52",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 183074
+                },
+                {
+                    "time": "2022-07-13T13:46:53",
+                    "absoluteTime": "2022-07-13T20:46:53",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 183374
+                },
+                {
+                    "time": "2022-07-13T13:51:52",
+                    "absoluteTime": "2022-07-13T20:51:52",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 183674
+                },
+                {
+                    "time": "2022-07-13T13:56:53",
+                    "absoluteTime": "2022-07-13T20:56:53",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 183974
+                },
+                {
+                    "time": "2022-07-13T14:01:53",
+                    "absoluteTime": "2022-07-13T21:01:53",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 184274
+                },
+                {
+                    "time": "2022-07-13T14:06:53",
+                    "absoluteTime": "2022-07-13T21:06:53",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 184574
+                },
+                {
+                    "time": "2022-07-13T14:11:53",
+                    "absoluteTime": "2022-07-13T21:11:53",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 184874
+                },
+                {
+                    "time": "2022-07-13T14:16:53",
+                    "absoluteTime": "2022-07-13T21:16:53",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 185174
+                },
+                {
+                    "time": "2022-07-13T14:21:53",
+                    "absoluteTime": "2022-07-13T21:21:53",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 185474
+                },
+                {
+                    "time": "2022-07-13T14:26:52",
+                    "absoluteTime": "2022-07-13T21:26:52",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 185774
+                },
+                {
+                    "time": "2022-07-13T14:31:53",
+                    "absoluteTime": "2022-07-13T21:31:53",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 186074
+                },
+                {
+                    "time": "2022-07-13T14:36:53",
+                    "absoluteTime": "2022-07-13T21:36:53",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 186374
+                },
+                {
+                    "time": "2022-07-13T14:41:53",
+                    "absoluteTime": "2022-07-13T21:41:53",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 186674
+                },
+                {
+                    "time": "2022-07-13T14:46:52",
+                    "absoluteTime": "2022-07-13T21:46:52",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 186974
+                },
+                {
+                    "time": "2022-07-13T14:51:53",
+                    "absoluteTime": "2022-07-13T21:51:53",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 187274
+                },
+                {
+                    "time": "2022-07-13T14:56:53",
+                    "absoluteTime": "2022-07-13T21:56:53",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 187574
+                },
+                {
+                    "time": "2022-07-13T15:01:52",
+                    "absoluteTime": "2022-07-13T22:01:52",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 187874
+                },
+                {
+                    "time": "2022-07-13T15:06:52",
+                    "absoluteTime": "2022-07-13T22:06:52",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 188174
+                },
+                {
+                    "time": "2022-07-13T15:11:52",
+                    "absoluteTime": "2022-07-13T22:11:52",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 188474
+                },
+                {
+                    "time": "2022-07-13T15:16:53",
+                    "absoluteTime": "2022-07-13T22:16:53",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 188774
+                },
+                {
+                    "time": "2022-07-13T15:21:52",
+                    "absoluteTime": "2022-07-13T22:21:52",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 189074
+                },
+                {
+                    "time": "2022-07-13T15:26:52",
+                    "absoluteTime": "2022-07-13T22:26:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 189374
+                },
+                {
+                    "time": "2022-07-13T15:31:52",
+                    "absoluteTime": "2022-07-13T22:31:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 189674
+                },
+                {
+                    "time": "2022-07-13T15:36:53",
+                    "absoluteTime": "2022-07-13T22:36:53",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 189974
+                },
+                {
+                    "time": "2022-07-13T15:41:53",
+                    "absoluteTime": "2022-07-13T22:41:53",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 190274
+                },
+                {
+                    "time": "2022-07-13T15:46:52",
+                    "absoluteTime": "2022-07-13T22:46:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 190574
+                },
+                {
+                    "time": "2022-07-13T15:51:52",
+                    "absoluteTime": "2022-07-13T22:51:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 190874
+                },
+                {
+                    "time": "2022-07-13T15:56:53",
+                    "absoluteTime": "2022-07-13T22:56:53",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 191174
+                },
+                {
+                    "time": "2022-07-13T16:01:53",
+                    "absoluteTime": "2022-07-13T23:01:53",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 191474
+                },
+                {
+                    "time": "2022-07-13T16:06:53",
+                    "absoluteTime": "2022-07-13T23:06:53",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 191774
+                },
+                {
+                    "time": "2022-07-13T16:11:53",
+                    "absoluteTime": "2022-07-13T23:11:53",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 192074
+                },
+                {
+                    "time": "2022-07-13T16:16:53",
+                    "absoluteTime": "2022-07-13T23:16:53",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 192374
+                },
+                {
+                    "time": "2022-07-13T16:21:53",
+                    "absoluteTime": "2022-07-13T23:21:53",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 192674
+                },
+                {
+                    "time": "2022-07-13T16:26:53",
+                    "absoluteTime": "2022-07-13T23:26:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 192974
+                },
+                {
+                    "time": "2022-07-13T16:31:52",
+                    "absoluteTime": "2022-07-13T23:31:52",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 193274
+                },
+                {
+                    "time": "2022-07-13T16:36:52",
+                    "absoluteTime": "2022-07-13T23:36:52",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 193574
+                },
+                {
+                    "time": "2022-07-13T16:41:53",
+                    "absoluteTime": "2022-07-13T23:41:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 193874
+                },
+                {
+                    "time": "2022-07-13T16:46:52",
+                    "absoluteTime": "2022-07-13T23:46:52",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 194174
+                },
+                {
+                    "time": "2022-07-13T16:51:53",
+                    "absoluteTime": "2022-07-13T23:51:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 194474
+                },
+                {
+                    "time": "2022-07-13T16:56:53",
+                    "absoluteTime": "2022-07-13T23:56:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 194774
+                },
+                {
+                    "time": "2022-07-13T17:01:52",
+                    "absoluteTime": "2022-07-14T00:01:52",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 195074
+                },
+                {
+                    "time": "2022-07-13T17:06:53",
+                    "absoluteTime": "2022-07-14T00:06:53",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 195374
+                },
+                {
+                    "time": "2022-07-13T17:11:52",
+                    "absoluteTime": "2022-07-14T00:11:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 195674
+                },
+                {
+                    "time": "2022-07-13T17:16:53",
+                    "absoluteTime": "2022-07-14T00:16:53",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 195974
+                },
+                {
+                    "time": "2022-07-13T17:21:53",
+                    "absoluteTime": "2022-07-14T00:21:53",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 196274
+                },
+                {
+                    "time": "2022-07-13T17:26:52",
+                    "absoluteTime": "2022-07-14T00:26:52",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 196574
+                },
+                {
+                    "time": "2022-07-13T17:31:53",
+                    "absoluteTime": "2022-07-14T00:31:53",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 196874
+                },
+                {
+                    "time": "2022-07-13T17:36:53",
+                    "absoluteTime": "2022-07-14T00:36:53",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 197174
+                },
+                {
+                    "time": "2022-07-13T17:41:52",
+                    "absoluteTime": "2022-07-14T00:41:52",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 197474
+                },
+                {
+                    "time": "2022-07-13T17:46:53",
+                    "absoluteTime": "2022-07-14T00:46:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 197774
+                },
+                {
+                    "time": "2022-07-13T17:51:53",
+                    "absoluteTime": "2022-07-14T00:51:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 198074
+                },
+                {
+                    "time": "2022-07-13T17:56:52",
+                    "absoluteTime": "2022-07-14T00:56:52",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 198374
+                },
+                {
+                    "time": "2022-07-13T18:01:52",
+                    "absoluteTime": "2022-07-14T01:01:52",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 198674
+                },
+                {
+                    "time": "2022-07-13T18:06:52",
+                    "absoluteTime": "2022-07-14T01:06:52",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 198974
+                },
+                {
+                    "time": "2022-07-13T18:11:52",
+                    "absoluteTime": "2022-07-14T01:11:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 199274
+                },
+                {
+                    "time": "2022-07-13T18:16:53",
+                    "absoluteTime": "2022-07-14T01:16:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 199574
+                },
+                {
+                    "time": "2022-07-13T18:21:53",
+                    "absoluteTime": "2022-07-14T01:21:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 199874
+                },
+                {
+                    "time": "2022-07-13T18:26:52",
+                    "absoluteTime": "2022-07-14T01:26:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 200174
+                },
+                {
+                    "time": "2022-07-13T18:31:52",
+                    "absoluteTime": "2022-07-14T01:31:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 200474
+                },
+                {
+                    "time": "2022-07-13T18:36:53",
+                    "absoluteTime": "2022-07-14T01:36:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 200774
+                },
+                {
+                    "time": "2022-07-13T18:41:53",
+                    "absoluteTime": "2022-07-14T01:41:53",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 201074
+                },
+                {
+                    "time": "2022-07-13T18:46:53",
+                    "absoluteTime": "2022-07-14T01:46:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 201374
+                },
+                {
+                    "time": "2022-07-13T18:51:53",
+                    "absoluteTime": "2022-07-14T01:51:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 201674
+                },
+                {
+                    "time": "2022-07-13T18:56:52",
+                    "absoluteTime": "2022-07-14T01:56:52",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 201974
+                },
+                {
+                    "time": "2022-07-13T19:01:53",
+                    "absoluteTime": "2022-07-14T02:01:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 202274
+                },
+                {
+                    "time": "2022-07-13T19:06:52",
+                    "absoluteTime": "2022-07-14T02:06:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 202574
+                },
+                {
+                    "time": "2022-07-13T19:11:53",
+                    "absoluteTime": "2022-07-14T02:11:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 202874
+                },
+                {
+                    "time": "2022-07-13T19:16:53",
+                    "absoluteTime": "2022-07-14T02:16:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 203174
+                },
+                {
+                    "time": "2022-07-13T19:21:53",
+                    "absoluteTime": "2022-07-14T02:21:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 203474
+                },
+                {
+                    "time": "2022-07-13T19:26:52",
+                    "absoluteTime": "2022-07-14T02:26:52",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 203774
+                },
+                {
+                    "time": "2022-07-13T19:31:53",
+                    "absoluteTime": "2022-07-14T02:31:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 204074
+                },
+                {
+                    "time": "2022-07-13T19:36:53",
+                    "absoluteTime": "2022-07-14T02:36:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 204374
+                },
+                {
+                    "time": "2022-07-13T19:41:53",
+                    "absoluteTime": "2022-07-14T02:41:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 204674
+                },
+                {
+                    "time": "2022-07-13T19:46:53",
+                    "absoluteTime": "2022-07-14T02:46:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 204974
+                },
+                {
+                    "time": "2022-07-13T19:51:53",
+                    "absoluteTime": "2022-07-14T02:51:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 205274
+                },
+                {
+                    "time": "2022-07-13T19:56:53",
+                    "absoluteTime": "2022-07-14T02:56:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 205574
+                },
+                {
+                    "time": "2022-07-13T20:01:53",
+                    "absoluteTime": "2022-07-14T03:01:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 205874
+                },
+                {
+                    "time": "2022-07-13T20:06:53",
+                    "absoluteTime": "2022-07-14T03:06:53",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 206174
+                },
+                {
+                    "time": "2022-07-13T20:11:53",
+                    "absoluteTime": "2022-07-14T03:11:53",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 206474
+                },
+                {
+                    "time": "2022-07-13T20:16:53",
+                    "absoluteTime": "2022-07-14T03:16:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 206774
+                },
+                {
+                    "time": "2022-07-13T20:21:53",
+                    "absoluteTime": "2022-07-14T03:21:53",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 207074
+                },
+                {
+                    "time": "2022-07-13T20:26:53",
+                    "absoluteTime": "2022-07-14T03:26:53",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 207374
+                },
+                {
+                    "time": "2022-07-13T20:31:52",
+                    "absoluteTime": "2022-07-14T03:31:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 207674
+                },
+                {
+                    "time": "2022-07-13T20:36:52",
+                    "absoluteTime": "2022-07-14T03:36:52",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 207974
+                },
+                {
+                    "time": "2022-07-13T20:41:53",
+                    "absoluteTime": "2022-07-14T03:41:53",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 208274
+                },
+                {
+                    "time": "2022-07-13T20:46:53",
+                    "absoluteTime": "2022-07-14T03:46:53",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 208574
+                },
+                {
+                    "time": "2022-07-13T20:51:53",
+                    "absoluteTime": "2022-07-14T03:51:53",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 208874
+                },
+                {
+                    "time": "2022-07-13T20:56:53",
+                    "absoluteTime": "2022-07-14T03:56:53",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 209174
+                },
+                {
+                    "time": "2022-07-13T21:01:53",
+                    "absoluteTime": "2022-07-14T04:01:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 209474
+                },
+                {
+                    "time": "2022-07-13T21:06:53",
+                    "absoluteTime": "2022-07-14T04:06:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 209774
+                },
+                {
+                    "time": "2022-07-13T21:11:53",
+                    "absoluteTime": "2022-07-14T04:11:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 210074
+                },
+                {
+                    "time": "2022-07-13T21:16:53",
+                    "absoluteTime": "2022-07-14T04:16:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 210374
+                },
+                {
+                    "time": "2022-07-13T21:21:52",
+                    "absoluteTime": "2022-07-14T04:21:52",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 210674
+                },
+                {
+                    "time": "2022-07-13T21:26:53",
+                    "absoluteTime": "2022-07-14T04:26:53",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 210974
+                },
+                {
+                    "time": "2022-07-13T21:31:53",
+                    "absoluteTime": "2022-07-14T04:31:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 211274
+                },
+                {
+                    "time": "2022-07-13T21:36:52",
+                    "absoluteTime": "2022-07-14T04:36:52",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 211574
+                },
+                {
+                    "time": "2022-07-13T21:41:53",
+                    "absoluteTime": "2022-07-14T04:41:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 211874
+                },
+                {
+                    "time": "2022-07-13T21:46:53",
+                    "absoluteTime": "2022-07-14T04:46:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 212174
+                },
+                {
+                    "time": "2022-07-13T21:51:53",
+                    "absoluteTime": "2022-07-14T04:51:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 212474
+                },
+                {
+                    "time": "2022-07-13T21:56:53",
+                    "absoluteTime": "2022-07-14T04:56:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 212774
+                },
+                {
+                    "time": "2022-07-13T22:01:53",
+                    "absoluteTime": "2022-07-14T05:01:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 213074
+                },
+                {
+                    "time": "2022-07-13T22:06:53",
+                    "absoluteTime": "2022-07-14T05:06:53",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 213374
+                },
+                {
+                    "time": "2022-07-13T22:11:53",
+                    "absoluteTime": "2022-07-14T05:11:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 213674
+                },
+                {
+                    "time": "2022-07-13T22:16:53",
+                    "absoluteTime": "2022-07-14T05:16:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 213974
+                },
+                {
+                    "time": "2022-07-13T22:21:53",
+                    "absoluteTime": "2022-07-14T05:21:53",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 214274
+                },
+                {
+                    "time": "2022-07-13T22:26:53",
+                    "absoluteTime": "2022-07-14T05:26:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 214574
+                },
+                {
+                    "time": "2022-07-13T22:31:52",
+                    "absoluteTime": "2022-07-14T05:31:52",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 214874
+                },
+                {
+                    "time": "2022-07-13T22:36:53",
+                    "absoluteTime": "2022-07-14T05:36:53",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 215174
+                },
+                {
+                    "time": "2022-07-13T22:41:53",
+                    "absoluteTime": "2022-07-14T05:41:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 215474
+                },
+                {
+                    "time": "2022-07-13T22:46:53",
+                    "absoluteTime": "2022-07-14T05:46:53",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 215774
+                },
+                {
+                    "time": "2022-07-13T22:51:53",
+                    "absoluteTime": "2022-07-14T05:51:53",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 216074
+                },
+                {
+                    "time": "2022-07-13T22:56:52",
+                    "absoluteTime": "2022-07-14T05:56:52",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 216374
+                },
+                {
+                    "time": "2022-07-13T23:01:53",
+                    "absoluteTime": "2022-07-14T06:01:53",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 216674
+                },
+                {
+                    "time": "2022-07-13T23:06:53",
+                    "absoluteTime": "2022-07-14T06:06:53",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 216974
+                },
+                {
+                    "time": "2022-07-13T23:11:53",
+                    "absoluteTime": "2022-07-14T06:11:53",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 217274
+                },
+                {
+                    "time": "2022-07-13T23:16:53",
+                    "absoluteTime": "2022-07-14T06:16:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 217574
+                },
+                {
+                    "time": "2022-07-13T23:21:53",
+                    "absoluteTime": "2022-07-14T06:21:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 217874
+                },
+                {
+                    "time": "2022-07-13T23:26:53",
+                    "absoluteTime": "2022-07-14T06:26:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 218174
+                },
+                {
+                    "time": "2022-07-13T23:31:53",
+                    "absoluteTime": "2022-07-14T06:31:53",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 218474
+                },
+                {
+                    "time": "2022-07-13T23:36:53",
+                    "absoluteTime": "2022-07-14T06:36:53",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 218774
+                },
+                {
+                    "time": "2022-07-13T23:41:53",
+                    "absoluteTime": "2022-07-14T06:41:53",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 219074
+                },
+                {
+                    "time": "2022-07-13T23:46:53",
+                    "absoluteTime": "2022-07-14T06:46:53",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 219374
+                },
+                {
+                    "time": "2022-07-13T23:51:53",
+                    "absoluteTime": "2022-07-14T06:51:53",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 219674
+                },
+                {
+                    "time": "2022-07-13T23:56:53",
+                    "absoluteTime": "2022-07-14T06:56:53",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 219974
+                }
+            ]
         },
         {
             "date": "2022-07-09",
@@ -222,7 +2239,2024 @@
         },
         {
             "date": "2022-07-10",
-            "egvs": []
+            "egvs": [
+                {
+                    "time": "2022-07-19T00:01:58",
+                    "absoluteTime": "2022-07-19T07:01:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 652274
+                },
+                {
+                    "time": "2022-07-19T00:06:58",
+                    "absoluteTime": "2022-07-19T07:06:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 652574
+                },
+                {
+                    "time": "2022-07-19T00:11:58",
+                    "absoluteTime": "2022-07-19T07:11:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 652874
+                },
+                {
+                    "time": "2022-07-19T00:16:57",
+                    "absoluteTime": "2022-07-19T07:16:57",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 653174
+                },
+                {
+                    "time": "2022-07-19T00:21:58",
+                    "absoluteTime": "2022-07-19T07:21:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 653474
+                },
+                {
+                    "time": "2022-07-19T00:26:57",
+                    "absoluteTime": "2022-07-19T07:26:57",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 653774
+                },
+                {
+                    "time": "2022-07-19T00:31:58",
+                    "absoluteTime": "2022-07-19T07:31:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 654074
+                },
+                {
+                    "time": "2022-07-19T00:36:58",
+                    "absoluteTime": "2022-07-19T07:36:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 654374
+                },
+                {
+                    "time": "2022-07-19T00:41:58",
+                    "absoluteTime": "2022-07-19T07:41:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 654674
+                },
+                {
+                    "time": "2022-07-19T00:46:58",
+                    "absoluteTime": "2022-07-19T07:46:58",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 654974
+                },
+                {
+                    "time": "2022-07-19T00:51:57",
+                    "absoluteTime": "2022-07-19T07:51:57",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 655274
+                },
+                {
+                    "time": "2022-07-19T00:56:57",
+                    "absoluteTime": "2022-07-19T07:56:57",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 655574
+                },
+                {
+                    "time": "2022-07-19T01:01:58",
+                    "absoluteTime": "2022-07-19T08:01:58",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 655874
+                },
+                {
+                    "time": "2022-07-19T01:06:58",
+                    "absoluteTime": "2022-07-19T08:06:58",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 656174
+                },
+                {
+                    "time": "2022-07-19T01:11:57",
+                    "absoluteTime": "2022-07-19T08:11:57",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 656474
+                },
+                {
+                    "time": "2022-07-19T01:16:58",
+                    "absoluteTime": "2022-07-19T08:16:58",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 656774
+                },
+                {
+                    "time": "2022-07-19T01:21:57",
+                    "absoluteTime": "2022-07-19T08:21:57",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 657074
+                },
+                {
+                    "time": "2022-07-19T01:26:58",
+                    "absoluteTime": "2022-07-19T08:26:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 657374
+                },
+                {
+                    "time": "2022-07-19T01:31:58",
+                    "absoluteTime": "2022-07-19T08:31:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 657674
+                },
+                {
+                    "time": "2022-07-19T01:36:58",
+                    "absoluteTime": "2022-07-19T08:36:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 657974
+                },
+                {
+                    "time": "2022-07-19T01:41:58",
+                    "absoluteTime": "2022-07-19T08:41:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 658274
+                },
+                {
+                    "time": "2022-07-19T01:46:57",
+                    "absoluteTime": "2022-07-19T08:46:57",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 658574
+                },
+                {
+                    "time": "2022-07-19T01:51:58",
+                    "absoluteTime": "2022-07-19T08:51:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 658874
+                },
+                {
+                    "time": "2022-07-19T01:56:58",
+                    "absoluteTime": "2022-07-19T08:56:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 659174
+                },
+                {
+                    "time": "2022-07-19T02:01:58",
+                    "absoluteTime": "2022-07-19T09:01:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 659474
+                },
+                {
+                    "time": "2022-07-19T02:06:57",
+                    "absoluteTime": "2022-07-19T09:06:57",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 659774
+                },
+                {
+                    "time": "2022-07-19T02:11:58",
+                    "absoluteTime": "2022-07-19T09:11:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 660074
+                },
+                {
+                    "time": "2022-07-19T02:16:58",
+                    "absoluteTime": "2022-07-19T09:16:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 660374
+                },
+                {
+                    "time": "2022-07-19T02:21:58",
+                    "absoluteTime": "2022-07-19T09:21:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 660674
+                },
+                {
+                    "time": "2022-07-19T02:26:58",
+                    "absoluteTime": "2022-07-19T09:26:58",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 660974
+                },
+                {
+                    "time": "2022-07-19T02:31:58",
+                    "absoluteTime": "2022-07-19T09:31:58",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 661274
+                },
+                {
+                    "time": "2022-07-19T02:36:58",
+                    "absoluteTime": "2022-07-19T09:36:58",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 661574
+                },
+                {
+                    "time": "2022-07-19T02:41:58",
+                    "absoluteTime": "2022-07-19T09:41:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 661874
+                },
+                {
+                    "time": "2022-07-19T02:46:58",
+                    "absoluteTime": "2022-07-19T09:46:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 662174
+                },
+                {
+                    "time": "2022-07-19T02:51:58",
+                    "absoluteTime": "2022-07-19T09:51:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 662474
+                },
+                {
+                    "time": "2022-07-19T02:56:57",
+                    "absoluteTime": "2022-07-19T09:56:57",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 662774
+                },
+                {
+                    "time": "2022-07-19T03:01:58",
+                    "absoluteTime": "2022-07-19T10:01:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 663074
+                },
+                {
+                    "time": "2022-07-19T03:06:58",
+                    "absoluteTime": "2022-07-19T10:06:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 663374
+                },
+                {
+                    "time": "2022-07-19T03:11:58",
+                    "absoluteTime": "2022-07-19T10:11:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 663674
+                },
+                {
+                    "time": "2022-07-19T03:16:58",
+                    "absoluteTime": "2022-07-19T10:16:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 663974
+                },
+                {
+                    "time": "2022-07-19T03:21:57",
+                    "absoluteTime": "2022-07-19T10:21:57",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 664274
+                },
+                {
+                    "time": "2022-07-19T03:26:58",
+                    "absoluteTime": "2022-07-19T10:26:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 664574
+                },
+                {
+                    "time": "2022-07-19T03:31:58",
+                    "absoluteTime": "2022-07-19T10:31:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 664874
+                },
+                {
+                    "time": "2022-07-19T03:36:58",
+                    "absoluteTime": "2022-07-19T10:36:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 665174
+                },
+                {
+                    "time": "2022-07-19T03:41:58",
+                    "absoluteTime": "2022-07-19T10:41:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 665474
+                },
+                {
+                    "time": "2022-07-19T03:46:58",
+                    "absoluteTime": "2022-07-19T10:46:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 665774
+                },
+                {
+                    "time": "2022-07-19T03:51:58",
+                    "absoluteTime": "2022-07-19T10:51:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 666074
+                },
+                {
+                    "time": "2022-07-19T03:56:58",
+                    "absoluteTime": "2022-07-19T10:56:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 666374
+                },
+                {
+                    "time": "2022-07-19T04:01:58",
+                    "absoluteTime": "2022-07-19T11:01:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 666674
+                },
+                {
+                    "time": "2022-07-19T04:06:58",
+                    "absoluteTime": "2022-07-19T11:06:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 666974
+                },
+                {
+                    "time": "2022-07-19T04:11:58",
+                    "absoluteTime": "2022-07-19T11:11:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 667274
+                },
+                {
+                    "time": "2022-07-19T04:16:58",
+                    "absoluteTime": "2022-07-19T11:16:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 667574
+                },
+                {
+                    "time": "2022-07-19T04:21:58",
+                    "absoluteTime": "2022-07-19T11:21:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 667874
+                },
+                {
+                    "time": "2022-07-19T04:26:58",
+                    "absoluteTime": "2022-07-19T11:26:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 668174
+                },
+                {
+                    "time": "2022-07-19T04:31:58",
+                    "absoluteTime": "2022-07-19T11:31:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 668474
+                },
+                {
+                    "time": "2022-07-19T04:36:58",
+                    "absoluteTime": "2022-07-19T11:36:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 668774
+                },
+                {
+                    "time": "2022-07-19T04:41:58",
+                    "absoluteTime": "2022-07-19T11:41:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 669074
+                },
+                {
+                    "time": "2022-07-19T04:46:58",
+                    "absoluteTime": "2022-07-19T11:46:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 669374
+                },
+                {
+                    "time": "2022-07-19T04:51:58",
+                    "absoluteTime": "2022-07-19T11:51:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 669674
+                },
+                {
+                    "time": "2022-07-19T04:56:58",
+                    "absoluteTime": "2022-07-19T11:56:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 669974
+                },
+                {
+                    "time": "2022-07-19T05:01:58",
+                    "absoluteTime": "2022-07-19T12:01:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 670274
+                },
+                {
+                    "time": "2022-07-19T05:06:58",
+                    "absoluteTime": "2022-07-19T12:06:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 670574
+                },
+                {
+                    "time": "2022-07-19T05:11:58",
+                    "absoluteTime": "2022-07-19T12:11:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 670874
+                },
+                {
+                    "time": "2022-07-19T05:16:58",
+                    "absoluteTime": "2022-07-19T12:16:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 671174
+                },
+                {
+                    "time": "2022-07-19T05:21:58",
+                    "absoluteTime": "2022-07-19T12:21:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 671474
+                },
+                {
+                    "time": "2022-07-19T05:26:58",
+                    "absoluteTime": "2022-07-19T12:26:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 671774
+                },
+                {
+                    "time": "2022-07-19T05:31:59",
+                    "absoluteTime": "2022-07-19T12:31:59",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 672074
+                },
+                {
+                    "time": "2022-07-19T05:36:58",
+                    "absoluteTime": "2022-07-19T12:36:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 672374
+                },
+                {
+                    "time": "2022-07-19T05:41:58",
+                    "absoluteTime": "2022-07-19T12:41:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 672674
+                },
+                {
+                    "time": "2022-07-19T05:46:58",
+                    "absoluteTime": "2022-07-19T12:46:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 672974
+                },
+                {
+                    "time": "2022-07-19T05:51:58",
+                    "absoluteTime": "2022-07-19T12:51:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 673274
+                },
+                {
+                    "time": "2022-07-19T05:56:58",
+                    "absoluteTime": "2022-07-19T12:56:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 673574
+                },
+                {
+                    "time": "2022-07-19T06:01:58",
+                    "absoluteTime": "2022-07-19T13:01:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 673874
+                },
+                {
+                    "time": "2022-07-19T06:06:58",
+                    "absoluteTime": "2022-07-19T13:06:58",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 674174
+                },
+                {
+                    "time": "2022-07-19T06:11:58",
+                    "absoluteTime": "2022-07-19T13:11:58",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 674474
+                },
+                {
+                    "time": "2022-07-19T06:16:58",
+                    "absoluteTime": "2022-07-19T13:16:58",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 674774
+                },
+                {
+                    "time": "2022-07-19T06:21:58",
+                    "absoluteTime": "2022-07-19T13:21:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 675074
+                },
+                {
+                    "time": "2022-07-19T06:26:59",
+                    "absoluteTime": "2022-07-19T13:26:59",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 675374
+                },
+                {
+                    "time": "2022-07-19T06:31:58",
+                    "absoluteTime": "2022-07-19T13:31:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 675674
+                },
+                {
+                    "time": "2022-07-19T06:36:58",
+                    "absoluteTime": "2022-07-19T13:36:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 675974
+                },
+                {
+                    "time": "2022-07-19T06:41:58",
+                    "absoluteTime": "2022-07-19T13:41:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 676274
+                },
+                {
+                    "time": "2022-07-19T06:46:58",
+                    "absoluteTime": "2022-07-19T13:46:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 676574
+                },
+                {
+                    "time": "2022-07-19T06:51:58",
+                    "absoluteTime": "2022-07-19T13:51:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 676874
+                },
+                {
+                    "time": "2022-07-19T06:56:58",
+                    "absoluteTime": "2022-07-19T13:56:58",
+                    "magnitude": 110,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 677174
+                },
+                {
+                    "time": "2022-07-19T07:01:58",
+                    "absoluteTime": "2022-07-19T14:01:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 677474
+                },
+                {
+                    "time": "2022-07-19T07:06:58",
+                    "absoluteTime": "2022-07-19T14:06:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 677774
+                },
+                {
+                    "time": "2022-07-19T07:11:58",
+                    "absoluteTime": "2022-07-19T14:11:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 678074
+                },
+                {
+                    "time": "2022-07-19T07:16:58",
+                    "absoluteTime": "2022-07-19T14:16:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 678374
+                },
+                {
+                    "time": "2022-07-19T07:21:58",
+                    "absoluteTime": "2022-07-19T14:21:58",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 678674
+                },
+                {
+                    "time": "2022-07-19T07:26:58",
+                    "absoluteTime": "2022-07-19T14:26:58",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 678974
+                },
+                {
+                    "time": "2022-07-19T07:31:59",
+                    "absoluteTime": "2022-07-19T14:31:59",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 679274
+                },
+                {
+                    "time": "2022-07-19T07:36:58",
+                    "absoluteTime": "2022-07-19T14:36:58",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 679574
+                },
+                {
+                    "time": "2022-07-19T07:41:58",
+                    "absoluteTime": "2022-07-19T14:41:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 679874
+                },
+                {
+                    "time": "2022-07-19T07:46:59",
+                    "absoluteTime": "2022-07-19T14:46:59",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 680174
+                },
+                {
+                    "time": "2022-07-19T07:51:58",
+                    "absoluteTime": "2022-07-19T14:51:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 680474
+                },
+                {
+                    "time": "2022-07-19T07:56:58",
+                    "absoluteTime": "2022-07-19T14:56:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 680774
+                },
+                {
+                    "time": "2022-07-19T08:01:58",
+                    "absoluteTime": "2022-07-19T15:01:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 681074
+                },
+                {
+                    "time": "2022-07-19T08:06:59",
+                    "absoluteTime": "2022-07-19T15:06:59",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 681374
+                },
+                {
+                    "time": "2022-07-19T08:11:59",
+                    "absoluteTime": "2022-07-19T15:11:59",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 681674
+                },
+                {
+                    "time": "2022-07-19T08:16:59",
+                    "absoluteTime": "2022-07-19T15:16:59",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 681974
+                },
+                {
+                    "time": "2022-07-19T08:21:58",
+                    "absoluteTime": "2022-07-19T15:21:58",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 682274
+                },
+                {
+                    "time": "2022-07-19T08:26:58",
+                    "absoluteTime": "2022-07-19T15:26:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 682574
+                },
+                {
+                    "time": "2022-07-19T08:31:58",
+                    "absoluteTime": "2022-07-19T15:31:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 682874
+                },
+                {
+                    "time": "2022-07-19T08:36:58",
+                    "absoluteTime": "2022-07-19T15:36:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 683174
+                },
+                {
+                    "time": "2022-07-19T08:41:58",
+                    "absoluteTime": "2022-07-19T15:41:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 683474
+                },
+                {
+                    "time": "2022-07-19T08:46:58",
+                    "absoluteTime": "2022-07-19T15:46:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 683774
+                },
+                {
+                    "time": "2022-07-19T08:51:58",
+                    "absoluteTime": "2022-07-19T15:51:58",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 684074
+                },
+                {
+                    "time": "2022-07-19T08:56:59",
+                    "absoluteTime": "2022-07-19T15:56:59",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 684374
+                },
+                {
+                    "time": "2022-07-19T09:01:58",
+                    "absoluteTime": "2022-07-19T16:01:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 684674
+                },
+                {
+                    "time": "2022-07-19T09:06:58",
+                    "absoluteTime": "2022-07-19T16:06:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 684974
+                },
+                {
+                    "time": "2022-07-19T09:11:58",
+                    "absoluteTime": "2022-07-19T16:11:58",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 685274
+                },
+                {
+                    "time": "2022-07-19T09:16:58",
+                    "absoluteTime": "2022-07-19T16:16:58",
+                    "magnitude": 94,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 685574
+                },
+                {
+                    "time": "2022-07-19T09:21:58",
+                    "absoluteTime": "2022-07-19T16:21:58",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 685874
+                },
+                {
+                    "time": "2022-07-19T09:26:58",
+                    "absoluteTime": "2022-07-19T16:26:58",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 686174
+                },
+                {
+                    "time": "2022-07-19T09:31:58",
+                    "absoluteTime": "2022-07-19T16:31:58",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 686474
+                },
+                {
+                    "time": "2022-07-19T09:36:58",
+                    "absoluteTime": "2022-07-19T16:36:58",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 686774
+                },
+                {
+                    "time": "2022-07-19T09:41:58",
+                    "absoluteTime": "2022-07-19T16:41:58",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 687074
+                },
+                {
+                    "time": "2022-07-19T09:46:58",
+                    "absoluteTime": "2022-07-19T16:46:58",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 687374
+                },
+                {
+                    "time": "2022-07-19T09:51:58",
+                    "absoluteTime": "2022-07-19T16:51:58",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 687674
+                },
+                {
+                    "time": "2022-07-19T09:56:58",
+                    "absoluteTime": "2022-07-19T16:56:58",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 687974
+                },
+                {
+                    "time": "2022-07-19T10:01:59",
+                    "absoluteTime": "2022-07-19T17:01:59",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 688274
+                },
+                {
+                    "time": "2022-07-19T10:06:58",
+                    "absoluteTime": "2022-07-19T17:06:58",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 688574
+                },
+                {
+                    "time": "2022-07-19T10:11:58",
+                    "absoluteTime": "2022-07-19T17:11:58",
+                    "magnitude": 94,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 688874
+                },
+                {
+                    "time": "2022-07-19T10:16:59",
+                    "absoluteTime": "2022-07-19T17:16:59",
+                    "magnitude": 95,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 689174
+                },
+                {
+                    "time": "2022-07-19T10:21:58",
+                    "absoluteTime": "2022-07-19T17:21:58",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 689474
+                },
+                {
+                    "time": "2022-07-19T10:26:58",
+                    "absoluteTime": "2022-07-19T17:26:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 689774
+                },
+                {
+                    "time": "2022-07-19T10:31:58",
+                    "absoluteTime": "2022-07-19T17:31:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 690074
+                },
+                {
+                    "time": "2022-07-19T10:36:58",
+                    "absoluteTime": "2022-07-19T17:36:58",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 690374
+                },
+                {
+                    "time": "2022-07-19T10:41:58",
+                    "absoluteTime": "2022-07-19T17:41:58",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 690674
+                },
+                {
+                    "time": "2022-07-19T10:46:58",
+                    "absoluteTime": "2022-07-19T17:46:58",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 690974
+                },
+                {
+                    "time": "2022-07-19T10:51:59",
+                    "absoluteTime": "2022-07-19T17:51:59",
+                    "magnitude": 127,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 691274
+                },
+                {
+                    "time": "2022-07-19T10:56:58",
+                    "absoluteTime": "2022-07-19T17:56:58",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 691574
+                },
+                {
+                    "time": "2022-07-19T11:01:58",
+                    "absoluteTime": "2022-07-19T18:01:58",
+                    "magnitude": 130,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 691874
+                },
+                {
+                    "time": "2022-07-19T11:06:58",
+                    "absoluteTime": "2022-07-19T18:06:58",
+                    "magnitude": 130,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 692174
+                },
+                {
+                    "time": "2022-07-19T11:11:58",
+                    "absoluteTime": "2022-07-19T18:11:58",
+                    "magnitude": 131,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 692474
+                },
+                {
+                    "time": "2022-07-19T11:16:58",
+                    "absoluteTime": "2022-07-19T18:16:58",
+                    "magnitude": 133,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 692774
+                },
+                {
+                    "time": "2022-07-19T11:21:58",
+                    "absoluteTime": "2022-07-19T18:21:58",
+                    "magnitude": 135,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 693074
+                },
+                {
+                    "time": "2022-07-19T11:26:58",
+                    "absoluteTime": "2022-07-19T18:26:58",
+                    "magnitude": 137,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 693374
+                },
+                {
+                    "time": "2022-07-19T11:31:59",
+                    "absoluteTime": "2022-07-19T18:31:59",
+                    "magnitude": 137,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 693674
+                },
+                {
+                    "time": "2022-07-19T11:36:59",
+                    "absoluteTime": "2022-07-19T18:36:59",
+                    "magnitude": 135,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 693974
+                },
+                {
+                    "time": "2022-07-19T11:41:59",
+                    "absoluteTime": "2022-07-19T18:41:59",
+                    "magnitude": 131,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 694274
+                },
+                {
+                    "time": "2022-07-19T11:46:58",
+                    "absoluteTime": "2022-07-19T18:46:58",
+                    "magnitude": 128,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 694574
+                },
+                {
+                    "time": "2022-07-19T11:51:58",
+                    "absoluteTime": "2022-07-19T18:51:58",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 694874
+                },
+                {
+                    "time": "2022-07-19T11:56:58",
+                    "absoluteTime": "2022-07-19T18:56:58",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 695174
+                },
+                {
+                    "time": "2022-07-19T12:01:58",
+                    "absoluteTime": "2022-07-19T19:01:58",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 695474
+                },
+                {
+                    "time": "2022-07-19T12:06:58",
+                    "absoluteTime": "2022-07-19T19:06:58",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 695774
+                },
+                {
+                    "time": "2022-07-19T12:11:59",
+                    "absoluteTime": "2022-07-19T19:11:59",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 696074
+                },
+                {
+                    "time": "2022-07-19T12:16:59",
+                    "absoluteTime": "2022-07-19T19:16:59",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 696374
+                },
+                {
+                    "time": "2022-07-19T12:21:58",
+                    "absoluteTime": "2022-07-19T19:21:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 696674
+                },
+                {
+                    "time": "2022-07-19T12:26:58",
+                    "absoluteTime": "2022-07-19T19:26:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 696974
+                },
+                {
+                    "time": "2022-07-19T12:31:58",
+                    "absoluteTime": "2022-07-19T19:31:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 697274
+                },
+                {
+                    "time": "2022-07-19T12:36:58",
+                    "absoluteTime": "2022-07-19T19:36:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 697574
+                },
+                {
+                    "time": "2022-07-19T12:41:59",
+                    "absoluteTime": "2022-07-19T19:41:59",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 697874
+                },
+                {
+                    "time": "2022-07-19T12:46:58",
+                    "absoluteTime": "2022-07-19T19:46:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 698174
+                },
+                {
+                    "time": "2022-07-19T12:51:58",
+                    "absoluteTime": "2022-07-19T19:51:58",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 698474
+                },
+                {
+                    "time": "2022-07-19T12:56:58",
+                    "absoluteTime": "2022-07-19T19:56:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 698774
+                },
+                {
+                    "time": "2022-07-19T13:01:58",
+                    "absoluteTime": "2022-07-19T20:01:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 699074
+                },
+                {
+                    "time": "2022-07-19T13:06:58",
+                    "absoluteTime": "2022-07-19T20:06:58",
+                    "magnitude": 111,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 699374
+                },
+                {
+                    "time": "2022-07-19T13:11:58",
+                    "absoluteTime": "2022-07-19T20:11:58",
+                    "magnitude": 113,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 699674
+                },
+                {
+                    "time": "2022-07-19T13:16:58",
+                    "absoluteTime": "2022-07-19T20:16:58",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 699974
+                },
+                {
+                    "time": "2022-07-19T13:21:59",
+                    "absoluteTime": "2022-07-19T20:21:59",
+                    "magnitude": 117,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 700274
+                },
+                {
+                    "time": "2022-07-19T13:26:58",
+                    "absoluteTime": "2022-07-19T20:26:58",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 700574
+                },
+                {
+                    "time": "2022-07-19T13:31:58",
+                    "absoluteTime": "2022-07-19T20:31:58",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 700874
+                },
+                {
+                    "time": "2022-07-19T13:36:59",
+                    "absoluteTime": "2022-07-19T20:36:59",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 701174
+                },
+                {
+                    "time": "2022-07-19T13:41:58",
+                    "absoluteTime": "2022-07-19T20:41:58",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 701474
+                },
+                {
+                    "time": "2022-07-19T13:46:58",
+                    "absoluteTime": "2022-07-19T20:46:58",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 701774
+                },
+                {
+                    "time": "2022-07-19T13:51:59",
+                    "absoluteTime": "2022-07-19T20:51:59",
+                    "magnitude": 116,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 702074
+                },
+                {
+                    "time": "2022-07-19T13:56:58",
+                    "absoluteTime": "2022-07-19T20:56:58",
+                    "magnitude": 114,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 702374
+                },
+                {
+                    "time": "2022-07-19T14:01:58",
+                    "absoluteTime": "2022-07-19T21:01:58",
+                    "magnitude": 112,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 702674
+                },
+                {
+                    "time": "2022-07-19T14:06:59",
+                    "absoluteTime": "2022-07-19T21:06:59",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 702974
+                },
+                {
+                    "time": "2022-07-19T14:11:58",
+                    "absoluteTime": "2022-07-19T21:11:58",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 703274
+                },
+                {
+                    "time": "2022-07-19T14:16:58",
+                    "absoluteTime": "2022-07-19T21:16:58",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 703574
+                },
+                {
+                    "time": "2022-07-19T14:21:58",
+                    "absoluteTime": "2022-07-19T21:21:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 703874
+                },
+                {
+                    "time": "2022-07-19T14:26:59",
+                    "absoluteTime": "2022-07-19T21:26:59",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 704174
+                },
+                {
+                    "time": "2022-07-19T14:31:58",
+                    "absoluteTime": "2022-07-19T21:31:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 704474
+                },
+                {
+                    "time": "2022-07-19T14:36:59",
+                    "absoluteTime": "2022-07-19T21:36:59",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 704774
+                },
+                {
+                    "time": "2022-07-19T14:41:58",
+                    "absoluteTime": "2022-07-19T21:41:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 705074
+                },
+                {
+                    "time": "2022-07-19T14:46:59",
+                    "absoluteTime": "2022-07-19T21:46:59",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 705374
+                },
+                {
+                    "time": "2022-07-19T14:51:58",
+                    "absoluteTime": "2022-07-19T21:51:58",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 705674
+                },
+                {
+                    "time": "2022-07-19T14:56:59",
+                    "absoluteTime": "2022-07-19T21:56:59",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 705974
+                },
+                {
+                    "time": "2022-07-19T15:01:59",
+                    "absoluteTime": "2022-07-19T22:01:59",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 706274
+                },
+                {
+                    "time": "2022-07-19T15:06:58",
+                    "absoluteTime": "2022-07-19T22:06:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 706574
+                },
+                {
+                    "time": "2022-07-19T15:11:58",
+                    "absoluteTime": "2022-07-19T22:11:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 706874
+                },
+                {
+                    "time": "2022-07-19T15:16:59",
+                    "absoluteTime": "2022-07-19T22:16:59",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 707174
+                },
+                {
+                    "time": "2022-07-19T15:21:58",
+                    "absoluteTime": "2022-07-19T22:21:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 707474
+                },
+                {
+                    "time": "2022-07-19T15:26:58",
+                    "absoluteTime": "2022-07-19T22:26:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 707774
+                },
+                {
+                    "time": "2022-07-19T15:31:58",
+                    "absoluteTime": "2022-07-19T22:31:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 708074
+                },
+                {
+                    "time": "2022-07-19T15:36:59",
+                    "absoluteTime": "2022-07-19T22:36:59",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 708374
+                },
+                {
+                    "time": "2022-07-19T15:41:58",
+                    "absoluteTime": "2022-07-19T22:41:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 708674
+                },
+                {
+                    "time": "2022-07-19T15:46:59",
+                    "absoluteTime": "2022-07-19T22:46:59",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 708974
+                },
+                {
+                    "time": "2022-07-19T15:51:58",
+                    "absoluteTime": "2022-07-19T22:51:58",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 709274
+                },
+                {
+                    "time": "2022-07-19T15:56:58",
+                    "absoluteTime": "2022-07-19T22:56:58",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 709574
+                },
+                {
+                    "time": "2022-07-19T16:01:58",
+                    "absoluteTime": "2022-07-19T23:01:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 709874
+                },
+                {
+                    "time": "2022-07-19T16:06:59",
+                    "absoluteTime": "2022-07-19T23:06:59",
+                    "magnitude": 103,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 710174
+                },
+                {
+                    "time": "2022-07-19T16:11:58",
+                    "absoluteTime": "2022-07-19T23:11:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 710474
+                },
+                {
+                    "time": "2022-07-19T16:16:58",
+                    "absoluteTime": "2022-07-19T23:16:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 710774
+                },
+                {
+                    "time": "2022-07-19T16:21:59",
+                    "absoluteTime": "2022-07-19T23:21:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 711074
+                },
+                {
+                    "time": "2022-07-19T16:26:59",
+                    "absoluteTime": "2022-07-19T23:26:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 711374
+                },
+                {
+                    "time": "2022-07-19T16:31:58",
+                    "absoluteTime": "2022-07-19T23:31:58",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 711674
+                },
+                {
+                    "time": "2022-07-19T16:36:59",
+                    "absoluteTime": "2022-07-19T23:36:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 711974
+                },
+                {
+                    "time": "2022-07-19T16:41:58",
+                    "absoluteTime": "2022-07-19T23:41:58",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 712274
+                },
+                {
+                    "time": "2022-07-19T16:46:58",
+                    "absoluteTime": "2022-07-19T23:46:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 712574
+                },
+                {
+                    "time": "2022-07-19T16:51:59",
+                    "absoluteTime": "2022-07-19T23:51:59",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 712874
+                },
+                {
+                    "time": "2022-07-19T16:56:59",
+                    "absoluteTime": "2022-07-19T23:56:59",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 713174
+                },
+                {
+                    "time": "2022-07-19T17:01:58",
+                    "absoluteTime": "2022-07-20T00:01:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 713474
+                },
+                {
+                    "time": "2022-07-19T17:06:59",
+                    "absoluteTime": "2022-07-20T00:06:59",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 713774
+                },
+                {
+                    "time": "2022-07-19T17:11:58",
+                    "absoluteTime": "2022-07-20T00:11:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 714074
+                },
+                {
+                    "time": "2022-07-19T17:16:58",
+                    "absoluteTime": "2022-07-20T00:16:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 714374
+                },
+                {
+                    "time": "2022-07-19T17:21:59",
+                    "absoluteTime": "2022-07-20T00:21:59",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 714674
+                },
+                {
+                    "time": "2022-07-19T17:26:59",
+                    "absoluteTime": "2022-07-20T00:26:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 714974
+                },
+                {
+                    "time": "2022-07-19T17:31:58",
+                    "absoluteTime": "2022-07-20T00:31:58",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 715274
+                },
+                {
+                    "time": "2022-07-19T17:36:58",
+                    "absoluteTime": "2022-07-20T00:36:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 715574
+                },
+                {
+                    "time": "2022-07-19T17:41:59",
+                    "absoluteTime": "2022-07-20T00:41:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 715874
+                },
+                {
+                    "time": "2022-07-19T17:46:59",
+                    "absoluteTime": "2022-07-20T00:46:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 716174
+                },
+                {
+                    "time": "2022-07-19T17:51:59",
+                    "absoluteTime": "2022-07-20T00:51:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 716474
+                },
+                {
+                    "time": "2022-07-19T17:56:58",
+                    "absoluteTime": "2022-07-20T00:56:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 716774
+                },
+                {
+                    "time": "2022-07-19T18:01:59",
+                    "absoluteTime": "2022-07-20T01:01:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 717074
+                },
+                {
+                    "time": "2022-07-19T18:06:59",
+                    "absoluteTime": "2022-07-20T01:06:59",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 717374
+                },
+                {
+                    "time": "2022-07-19T18:11:58",
+                    "absoluteTime": "2022-07-20T01:11:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 717674
+                },
+                {
+                    "time": "2022-07-19T18:16:58",
+                    "absoluteTime": "2022-07-20T01:16:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 717974
+                },
+                {
+                    "time": "2022-07-19T18:21:58",
+                    "absoluteTime": "2022-07-20T01:21:58",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 718274
+                },
+                {
+                    "time": "2022-07-19T18:26:58",
+                    "absoluteTime": "2022-07-20T01:26:58",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 718574
+                },
+                {
+                    "time": "2022-07-19T18:31:58",
+                    "absoluteTime": "2022-07-20T01:31:58",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 718874
+                },
+                {
+                    "time": "2022-07-19T18:36:58",
+                    "absoluteTime": "2022-07-20T01:36:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 719174
+                },
+                {
+                    "time": "2022-07-19T18:41:59",
+                    "absoluteTime": "2022-07-20T01:41:59",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 719474
+                },
+                {
+                    "time": "2022-07-19T18:46:58",
+                    "absoluteTime": "2022-07-20T01:46:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 719774
+                },
+                {
+                    "time": "2022-07-19T18:51:59",
+                    "absoluteTime": "2022-07-20T01:51:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 720074
+                },
+                {
+                    "time": "2022-07-19T18:56:59",
+                    "absoluteTime": "2022-07-20T01:56:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 720374
+                },
+                {
+                    "time": "2022-07-19T19:01:59",
+                    "absoluteTime": "2022-07-20T02:01:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 720674
+                },
+                {
+                    "time": "2022-07-19T19:06:59",
+                    "absoluteTime": "2022-07-20T02:06:59",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 720974
+                },
+                {
+                    "time": "2022-07-19T19:11:59",
+                    "absoluteTime": "2022-07-20T02:11:59",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 721274
+                },
+                {
+                    "time": "2022-07-19T19:16:58",
+                    "absoluteTime": "2022-07-20T02:16:58",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 721574
+                },
+                {
+                    "time": "2022-07-19T19:21:59",
+                    "absoluteTime": "2022-07-20T02:21:59",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 721874
+                },
+                {
+                    "time": "2022-07-19T19:26:58",
+                    "absoluteTime": "2022-07-20T02:26:58",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 722174
+                },
+                {
+                    "time": "2022-07-19T19:31:58",
+                    "absoluteTime": "2022-07-20T02:31:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 722474
+                },
+                {
+                    "time": "2022-07-19T19:36:58",
+                    "absoluteTime": "2022-07-20T02:36:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 722774
+                },
+                {
+                    "time": "2022-07-19T19:41:58",
+                    "absoluteTime": "2022-07-20T02:41:58",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 723074
+                },
+                {
+                    "time": "2022-07-19T19:46:59",
+                    "absoluteTime": "2022-07-20T02:46:59",
+                    "magnitude": 118,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 723374
+                },
+                {
+                    "time": "2022-07-19T19:51:59",
+                    "absoluteTime": "2022-07-20T02:51:59",
+                    "magnitude": 119,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 723674
+                },
+                {
+                    "time": "2022-07-19T19:56:59",
+                    "absoluteTime": "2022-07-20T02:56:59",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 723974
+                },
+                {
+                    "time": "2022-07-19T20:01:59",
+                    "absoluteTime": "2022-07-20T03:01:59",
+                    "magnitude": 126,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 724274
+                },
+                {
+                    "time": "2022-07-19T20:06:58",
+                    "absoluteTime": "2022-07-20T03:06:58",
+                    "magnitude": 125,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 724574
+                },
+                {
+                    "time": "2022-07-19T20:11:58",
+                    "absoluteTime": "2022-07-20T03:11:58",
+                    "magnitude": 124,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 724874
+                },
+                {
+                    "time": "2022-07-19T20:16:58",
+                    "absoluteTime": "2022-07-20T03:16:58",
+                    "magnitude": 122,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 725174
+                },
+                {
+                    "time": "2022-07-19T20:21:58",
+                    "absoluteTime": "2022-07-20T03:21:58",
+                    "magnitude": 121,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 725474
+                },
+                {
+                    "time": "2022-07-19T20:26:59",
+                    "absoluteTime": "2022-07-20T03:26:59",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 725774
+                },
+                {
+                    "time": "2022-07-19T20:31:58",
+                    "absoluteTime": "2022-07-20T03:31:58",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 726074
+                },
+                {
+                    "time": "2022-07-19T20:36:59",
+                    "absoluteTime": "2022-07-20T03:36:59",
+                    "magnitude": 123,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 726374
+                },
+                {
+                    "time": "2022-07-19T20:41:59",
+                    "absoluteTime": "2022-07-20T03:41:59",
+                    "magnitude": 120,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 726674
+                },
+                {
+                    "time": "2022-07-19T20:46:59",
+                    "absoluteTime": "2022-07-20T03:46:59",
+                    "magnitude": 115,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 726974
+                },
+                {
+                    "time": "2022-07-19T20:51:58",
+                    "absoluteTime": "2022-07-20T03:51:58",
+                    "magnitude": 109,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 727274
+                },
+                {
+                    "time": "2022-07-19T20:56:59",
+                    "absoluteTime": "2022-07-20T03:56:59",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 727574
+                },
+                {
+                    "time": "2022-07-19T21:01:58",
+                    "absoluteTime": "2022-07-20T04:01:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 727874
+                },
+                {
+                    "time": "2022-07-19T21:06:59",
+                    "absoluteTime": "2022-07-20T04:06:59",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 728174
+                },
+                {
+                    "time": "2022-07-19T21:11:58",
+                    "absoluteTime": "2022-07-20T04:11:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 728474
+                },
+                {
+                    "time": "2022-07-19T21:16:58",
+                    "absoluteTime": "2022-07-20T04:16:58",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 728774
+                },
+                {
+                    "time": "2022-07-19T21:21:59",
+                    "absoluteTime": "2022-07-20T04:21:59",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 729074
+                },
+                {
+                    "time": "2022-07-19T21:26:58",
+                    "absoluteTime": "2022-07-20T04:26:58",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 729374
+                },
+                {
+                    "time": "2022-07-19T21:31:59",
+                    "absoluteTime": "2022-07-20T04:31:59",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 729674
+                },
+                {
+                    "time": "2022-07-19T21:36:58",
+                    "absoluteTime": "2022-07-20T04:36:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 729974
+                },
+                {
+                    "time": "2022-07-19T21:41:58",
+                    "absoluteTime": "2022-07-20T04:41:58",
+                    "magnitude": 108,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 730274
+                },
+                {
+                    "time": "2022-07-19T21:46:58",
+                    "absoluteTime": "2022-07-20T04:46:58",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 730574
+                },
+                {
+                    "time": "2022-07-19T21:51:58",
+                    "absoluteTime": "2022-07-20T04:51:58",
+                    "magnitude": 102,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 730874
+                },
+                {
+                    "time": "2022-07-19T21:56:59",
+                    "absoluteTime": "2022-07-20T04:56:59",
+                    "magnitude": 100,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 731174
+                },
+                {
+                    "time": "2022-07-19T22:01:59",
+                    "absoluteTime": "2022-07-20T05:01:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 731474
+                },
+                {
+                    "time": "2022-07-19T22:06:58",
+                    "absoluteTime": "2022-07-20T05:06:58",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 731774
+                },
+                {
+                    "time": "2022-07-19T22:11:58",
+                    "absoluteTime": "2022-07-20T05:11:58",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 732074
+                },
+                {
+                    "time": "2022-07-19T22:16:59",
+                    "absoluteTime": "2022-07-20T05:16:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 732374
+                },
+                {
+                    "time": "2022-07-19T22:21:59",
+                    "absoluteTime": "2022-07-20T05:21:59",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 732674
+                },
+                {
+                    "time": "2022-07-19T22:26:58",
+                    "absoluteTime": "2022-07-20T05:26:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 732974
+                },
+                {
+                    "time": "2022-07-19T22:31:59",
+                    "absoluteTime": "2022-07-20T05:31:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 733274
+                },
+                {
+                    "time": "2022-07-19T22:36:59",
+                    "absoluteTime": "2022-07-20T05:36:59",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 733574
+                },
+                {
+                    "time": "2022-07-19T22:41:59",
+                    "absoluteTime": "2022-07-20T05:41:59",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 733874
+                },
+                {
+                    "time": "2022-07-19T22:46:59",
+                    "absoluteTime": "2022-07-20T05:46:59",
+                    "magnitude": 98,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 734174
+                },
+                {
+                    "time": "2022-07-19T22:51:59",
+                    "absoluteTime": "2022-07-20T05:51:59",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 734474
+                },
+                {
+                    "time": "2022-07-19T22:56:59",
+                    "absoluteTime": "2022-07-20T05:56:59",
+                    "magnitude": 104,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 734774
+                },
+                {
+                    "time": "2022-07-19T23:01:59",
+                    "absoluteTime": "2022-07-20T06:01:59",
+                    "magnitude": 106,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 735074
+                },
+                {
+                    "time": "2022-07-19T23:06:59",
+                    "absoluteTime": "2022-07-20T06:06:59",
+                    "magnitude": 107,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 735374
+                },
+                {
+                    "time": "2022-07-19T23:11:59",
+                    "absoluteTime": "2022-07-20T06:11:59",
+                    "magnitude": 105,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 735674
+                },
+                {
+                    "time": "2022-07-19T23:16:59",
+                    "absoluteTime": "2022-07-20T06:16:59",
+                    "magnitude": 101,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 735974
+                },
+                {
+                    "time": "2022-07-19T23:21:59",
+                    "absoluteTime": "2022-07-20T06:21:59",
+                    "magnitude": 97,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 736274
+                },
+                {
+                    "time": "2022-07-19T23:26:58",
+                    "absoluteTime": "2022-07-20T06:26:58",
+                    "magnitude": 93,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 736574
+                },
+                {
+                    "time": "2022-07-19T23:31:59",
+                    "absoluteTime": "2022-07-20T06:31:59",
+                    "magnitude": 91,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 736874
+                },
+                {
+                    "time": "2022-07-19T23:36:58",
+                    "absoluteTime": "2022-07-20T06:36:58",
+                    "magnitude": 91,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 737174
+                },
+                {
+                    "time": "2022-07-19T23:41:58",
+                    "absoluteTime": "2022-07-20T06:41:58",
+                    "magnitude": 93,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 737474
+                },
+                {
+                    "time": "2022-07-19T23:46:58",
+                    "absoluteTime": "2022-07-20T06:46:58",
+                    "magnitude": 94,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 737774
+                },
+                {
+                    "time": "2022-07-19T23:51:58",
+                    "absoluteTime": "2022-07-20T06:51:58",
+                    "magnitude": 96,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 738074
+                },
+                {
+                    "time": "2022-07-19T23:56:58",
+                    "absoluteTime": "2022-07-20T06:56:58",
+                    "magnitude": 99,
+                    "transmitterId": "8XTWLY",
+                    "transmitterTime": 738374
+                }
+            ]
         },
         {
             "date": "2022-07-11",
@@ -531,56 +4565,56 @@
                 {
                     "time": "2022-07-11T16:31:51",
                     "absoluteTime": "2022-07-11T23:31:51",
-                    "magnitude": 73,
+                    "magnitude": 43,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 20474
                 },
                 {
                     "time": "2022-07-11T16:36:51",
                     "absoluteTime": "2022-07-11T23:36:51",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 20774
                 },
                 {
                     "time": "2022-07-11T16:41:50",
                     "absoluteTime": "2022-07-11T23:41:50",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 21074
                 },
                 {
                     "time": "2022-07-11T16:46:51",
                     "absoluteTime": "2022-07-11T23:46:51",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 21374
                 },
                 {
                     "time": "2022-07-11T16:51:51",
                     "absoluteTime": "2022-07-11T23:51:51",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 21674
                 },
                 {
                     "time": "2022-07-11T16:56:51",
                     "absoluteTime": "2022-07-11T23:56:51",
-                    "magnitude": 79,
+                    "magnitude": 49,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 21974
                 },
                 {
                     "time": "2022-07-11T17:01:51",
                     "absoluteTime": "2022-07-12T00:01:51",
-                    "magnitude": 78,
+                    "magnitude": 48,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 22274
                 },
                 {
                     "time": "2022-07-11T17:06:51",
                     "absoluteTime": "2022-07-12T00:06:51",
-                    "magnitude": 75,
+                    "magnitude": 45,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 22574
                 },
@@ -650,14 +4684,14 @@
                 {
                     "time": "2022-07-11T17:56:50",
                     "absoluteTime": "2022-07-12T00:56:50",
-                    "magnitude": 72,
+                    "magnitude": 42,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 25574
                 },
                 {
                     "time": "2022-07-11T18:01:50",
                     "absoluteTime": "2022-07-12T01:01:50",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 25874
                 },
@@ -713,21 +4747,21 @@
                 {
                     "time": "2022-07-11T18:41:51",
                     "absoluteTime": "2022-07-12T01:41:51",
-                    "magnitude": 78,
+                    "magnitude": 48,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 28274
                 },
                 {
                     "time": "2022-07-11T18:46:51",
                     "absoluteTime": "2022-07-12T01:46:51",
-                    "magnitude": 74,
+                    "magnitude": 44,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 28574
                 },
                 {
                     "time": "2022-07-11T18:51:51",
                     "absoluteTime": "2022-07-12T01:51:51",
-                    "magnitude": 70,
+                    "magnitude": 40,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 28874
                 },
@@ -741,42 +4775,42 @@
                 {
                     "time": "2022-07-11T19:01:51",
                     "absoluteTime": "2022-07-12T02:01:51",
-                    "magnitude": 71,
+                    "magnitude": 41,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 29474
                 },
                 {
                     "time": "2022-07-11T19:06:51",
                     "absoluteTime": "2022-07-12T02:06:51",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 29774
                 },
                 {
                     "time": "2022-07-11T19:11:51",
                     "absoluteTime": "2022-07-12T02:11:51",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 30074
                 },
                 {
                     "time": "2022-07-11T19:16:51",
                     "absoluteTime": "2022-07-12T02:16:51",
-                    "magnitude": 73,
+                    "magnitude": 43,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 30374
                 },
                 {
                     "time": "2022-07-11T19:21:51",
                     "absoluteTime": "2022-07-12T02:21:51",
-                    "magnitude": 73,
+                    "magnitude": 43,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 30674
                 },
                 {
                     "time": "2022-07-11T19:26:51",
                     "absoluteTime": "2022-07-12T02:26:51",
-                    "magnitude": 71,
+                    "magnitude": 41,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 30974
                 },
@@ -790,35 +4824,35 @@
                 {
                     "time": "2022-07-11T19:36:51",
                     "absoluteTime": "2022-07-12T02:36:51",
-                    "magnitude": 75,
+                    "magnitude": 45,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 31574
                 },
                 {
                     "time": "2022-07-11T19:41:51",
                     "absoluteTime": "2022-07-12T02:41:51",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 31874
                 },
                 {
                     "time": "2022-07-11T19:46:51",
                     "absoluteTime": "2022-07-12T02:46:51",
-                    "magnitude": 78,
+                    "magnitude": 48,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 32174
                 },
                 {
                     "time": "2022-07-11T19:51:50",
                     "absoluteTime": "2022-07-12T02:51:50",
-                    "magnitude": 79,
+                    "magnitude": 49,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 32474
                 },
                 {
                     "time": "2022-07-11T19:56:51",
                     "absoluteTime": "2022-07-12T02:56:51",
-                    "magnitude": 78,
+                    "magnitude": 48,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 32774
                 },
@@ -832,28 +4866,28 @@
                 {
                     "time": "2022-07-11T20:06:51",
                     "absoluteTime": "2022-07-12T03:06:51",
-                    "magnitude": 75,
+                    "magnitude": 45,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 33374
                 },
                 {
                     "time": "2022-07-11T20:11:51",
                     "absoluteTime": "2022-07-12T03:11:51",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 33674
                 },
                 {
                     "time": "2022-07-11T20:16:51",
                     "absoluteTime": "2022-07-12T03:16:51",
-                    "magnitude": 76,
+                    "magnitude": 46,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 33974
                 },
                 {
                     "time": "2022-07-11T20:21:51",
                     "absoluteTime": "2022-07-12T03:21:51",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 34274
                 },
@@ -1180,21 +5214,21 @@
                 {
                     "time": "2022-07-12T00:11:51",
                     "absoluteTime": "2022-07-12T07:11:51",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 48074
                 },
                 {
                     "time": "2022-07-12T00:16:51",
                     "absoluteTime": "2022-07-12T07:16:51",
-                    "magnitude": 74,
+                    "magnitude": 44,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 48374
                 },
                 {
                     "time": "2022-07-12T00:21:51",
                     "absoluteTime": "2022-07-12T07:21:51",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 48674
                 },
@@ -1208,7 +5242,7 @@
                 {
                     "time": "2022-07-12T00:31:51",
                     "absoluteTime": "2022-07-12T07:31:51",
-                    "magnitude": 78,
+                    "magnitude": 48,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 49274
                 },
@@ -1530,14 +5564,14 @@
                 {
                     "time": "2022-07-12T04:21:51",
                     "absoluteTime": "2022-07-12T11:21:51",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 63074
                 },
                 {
                     "time": "2022-07-12T04:26:52",
                     "absoluteTime": "2022-07-12T11:26:52",
-                    "magnitude": 77,
+                    "magnitude": 47,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 63374
                 },
@@ -1635,7 +5669,7 @@
                 {
                     "time": "2022-07-12T05:36:51",
                     "absoluteTime": "2022-07-12T12:36:51",
-                    "magnitude": 78,
+                    "magnitude": 48,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 67574
                 },
@@ -7313,238 +11347,238 @@
                 {
                     "time": "2022-07-15T01:01:53",
                     "absoluteTime": "2022-07-15T08:01:53",
-                    "magnitude": 120,
+                    "magnitude": 190,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 310274
                 },
                 {
                     "time": "2022-07-15T01:06:53",
                     "absoluteTime": "2022-07-15T08:06:53",
-                    "magnitude": 120,
+                    "magnitude": 190,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 310574
                 },
                 {
                     "time": "2022-07-15T01:11:54",
                     "absoluteTime": "2022-07-15T08:11:54",
-                    "magnitude": 121,
+                    "magnitude": 191,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 310874
                 },
                 {
                     "time": "2022-07-15T01:16:54",
                     "absoluteTime": "2022-07-15T08:16:54",
-                    "magnitude": 121,
+                    "magnitude": 191,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 311174
                 },
                 {
                     "time": "2022-07-15T01:21:54",
                     "absoluteTime": "2022-07-15T08:21:54",
-                    "magnitude": 122,
+                    "magnitude": 192,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 311474
                 },
                 {
                     "time": "2022-07-15T01:26:54",
                     "absoluteTime": "2022-07-15T08:26:54",
-                    "magnitude": 122,
+                    "magnitude": 192,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 311774
                 },
                 {
                     "time": "2022-07-15T01:31:54",
                     "absoluteTime": "2022-07-15T08:31:54",
-                    "magnitude": 123,
+                    "magnitude": 193,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 312074
                 },
                 {
                     "time": "2022-07-15T01:36:54",
                     "absoluteTime": "2022-07-15T08:36:54",
-                    "magnitude": 125,
+                    "magnitude": 195,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 312374
                 },
                 {
                     "time": "2022-07-15T01:41:54",
                     "absoluteTime": "2022-07-15T08:41:54",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 312674
                 },
                 {
                     "time": "2022-07-15T01:46:54",
                     "absoluteTime": "2022-07-15T08:46:54",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 312974
                 },
                 {
                     "time": "2022-07-15T01:51:54",
                     "absoluteTime": "2022-07-15T08:51:54",
-                    "magnitude": 128,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 313274
                 },
                 {
                     "time": "2022-07-15T01:56:54",
                     "absoluteTime": "2022-07-15T08:56:54",
-                    "magnitude": 128,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 313574
                 },
                 {
                     "time": "2022-07-15T02:01:54",
                     "absoluteTime": "2022-07-15T09:01:54",
-                    "magnitude": 128,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 313874
                 },
                 {
                     "time": "2022-07-15T02:06:54",
                     "absoluteTime": "2022-07-15T09:06:54",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 314174
                 },
                 {
                     "time": "2022-07-15T02:11:54",
                     "absoluteTime": "2022-07-15T09:11:54",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 314474
                 },
                 {
                     "time": "2022-07-15T02:16:55",
                     "absoluteTime": "2022-07-15T09:16:55",
-                    "magnitude": 126,
+                    "magnitude": 196,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 314774
                 },
                 {
                     "time": "2022-07-15T02:21:54",
                     "absoluteTime": "2022-07-15T09:21:54",
-                    "magnitude": 122,
+                    "magnitude": 192,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 315074
                 },
                 {
                     "time": "2022-07-15T02:26:54",
                     "absoluteTime": "2022-07-15T09:26:54",
-                    "magnitude": 118,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 315374
                 },
                 {
                     "time": "2022-07-15T02:31:54",
                     "absoluteTime": "2022-07-15T09:31:54",
-                    "magnitude": 119,
+                    "magnitude": 199,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 315674
                 },
                 {
                     "time": "2022-07-15T02:36:54",
                     "absoluteTime": "2022-07-15T09:36:54",
-                    "magnitude": 119,
+                    "magnitude": 199,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 315974
                 },
                 {
                     "time": "2022-07-15T02:41:54",
                     "absoluteTime": "2022-07-15T09:41:54",
-                    "magnitude": 118,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 316274
                 },
                 {
                     "time": "2022-07-15T02:46:54",
                     "absoluteTime": "2022-07-15T09:46:54",
-                    "magnitude": 119,
+                    "magnitude": 199,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 316574
                 },
                 {
                     "time": "2022-07-15T02:51:54",
                     "absoluteTime": "2022-07-15T09:51:54",
-                    "magnitude": 120,
+                    "magnitude": 190,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 316874
                 },
                 {
                     "time": "2022-07-15T02:56:54",
                     "absoluteTime": "2022-07-15T09:56:54",
-                    "magnitude": 120,
+                    "magnitude": 190,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 317174
                 },
                 {
                     "time": "2022-07-15T03:01:54",
                     "absoluteTime": "2022-07-15T10:01:54",
-                    "magnitude": 122,
+                    "magnitude": 192,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 317474
                 },
                 {
                     "time": "2022-07-15T03:06:54",
                     "absoluteTime": "2022-07-15T10:06:54",
-                    "magnitude": 124,
+                    "magnitude": 194,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 317774
                 },
                 {
                     "time": "2022-07-15T03:11:54",
                     "absoluteTime": "2022-07-15T10:11:54",
-                    "magnitude": 125,
+                    "magnitude": 195,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 318074
                 },
                 {
                     "time": "2022-07-15T03:16:54",
                     "absoluteTime": "2022-07-15T10:16:54",
-                    "magnitude": 126,
+                    "magnitude": 196,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 318374
                 },
                 {
                     "time": "2022-07-15T03:21:54",
                     "absoluteTime": "2022-07-15T10:21:54",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 318674
                 },
                 {
                     "time": "2022-07-15T03:26:54",
                     "absoluteTime": "2022-07-15T10:26:54",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 318974
                 },
                 {
                     "time": "2022-07-15T03:31:55",
                     "absoluteTime": "2022-07-15T10:31:55",
-                    "magnitude": 127,
+                    "magnitude": 197,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 319274
                 },
                 {
                     "time": "2022-07-15T03:36:54",
                     "absoluteTime": "2022-07-15T10:36:54",
-                    "magnitude": 128,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 319574
                 },
                 {
                     "time": "2022-07-15T03:41:54",
                     "absoluteTime": "2022-07-15T10:41:54",
-                    "magnitude": 128,
+                    "magnitude": 198,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 319874
                 },
                 {
                     "time": "2022-07-15T03:46:54",
                     "absoluteTime": "2022-07-15T10:46:54",
-                    "magnitude": 126,
+                    "magnitude": 196,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 320174
                 },
@@ -12797,14 +16831,14 @@
                 {
                     "time": "2022-07-17T18:01:56",
                     "absoluteTime": "2022-07-18T01:01:56",
-                    "magnitude": 79,
+                    "magnitude": 49,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 544274
                 },
                 {
                     "time": "2022-07-17T18:06:57",
                     "absoluteTime": "2022-07-18T01:06:57",
-                    "magnitude": 79,
+                    "magnitude": 49,
                     "transmitterId": "8XTWLY",
                     "transmitterTime": 544574
                 },
